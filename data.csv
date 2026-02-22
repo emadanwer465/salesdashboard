@@ -1,0 +1,2001 @@
+Date,Time,Product Category,Channel,Ad Spend,Conversions,Revenue,Customer Segment
+2024-12-09,Night,Recent,Email,43.83,0,329.52,New
+2024-12-26,Morning,Senior,Social Media,78.89,2,314.62,New
+2025-03-27,Afternoon,Along,Social Media,112.2,8,64.82,Returning
+2024-12-24,Morning,Cause,In-store,38.42,4,211.91,New
+2024-12-25,Evening,Accept,Influencer,32.32,7,457.98,New
+2025-01-01,Morning,High,Influencer,7.71,2,450.03,Loyal
+2025-02-26,Afternoon,International,In-store,111.9,9,399.25,Loyal
+2025-03-26,Evening,Need,In-store,134.92,0,290.06,Returning
+2025-04-21,Afternoon,Ability,In-store,101.37,8,361.09,Returning
+2025-01-05,Afternoon,Place,In-store,101.43,0,216.36,Loyal
+2025-01-16,Afternoon,Man,Email,89.68,4,308.87,Returning
+2025-03-02,Evening,Word,In-store,126.99,8,398.39,Returning
+2024-11-04,Afternoon,Already,Influencer,146.85,6,225.98,New
+2025-04-07,Night,Much,Influencer,115.18,2,146.97,Returning
+2024-10-31,Afternoon,Bed,Email,99.04,5,36.18,Loyal
+2024-11-14,Evening,It,Email,149.4,10,283.98,Returning
+2024-11-11,Morning,Billion,In-store,109.85,1,321.56,New
+2025-03-20,Afternoon,Mr,In-store,134.58,6,146.67,Returning
+2025-01-25,Morning,Create,In-store,39.43,1,67.85,Loyal
+2025-04-07,Evening,Be,In-store,9.65,3,419.59,Returning
+2025-01-22,Afternoon,Investment,In-store,118.56,3,452.64,Loyal
+2025-04-10,Morning,Continue,Influencer,84.84,10,398.24,New
+2025-02-28,Night,Rest,Email,46.98,4,80.12,Returning
+2024-12-10,Morning,Risk,Social Media,11.9,4,392.78,Loyal
+2024-11-08,Morning,Stop,Influencer,66.73,10,388.51,Returning
+2025-02-13,Afternoon,Minute,In-store,90.45,4,24.93,New
+2024-11-12,Night,Whom,Influencer,73.94,7,215.01,New
+2025-01-20,Night,Make,Influencer,21.67,7,357.83,Loyal
+2025-01-02,Evening,Pm,Email,46.4,6,282.95,Loyal
+2025-03-16,Morning,Exactly,Email,29.97,2,83.98,Loyal
+2025-04-28,Night,Successful,In-store,114.27,3,433.76,Loyal
+2025-04-17,Evening,Newspaper,Social Media,123.14,0,179.82,New
+2024-12-19,Evening,Imagine,Influencer,89.64,8,45.13,Returning
+2025-04-10,Evening,Letter,Influencer,71.48,6,332.46,Returning
+2024-11-16,Evening,Life,In-store,10.29,7,302.21,Returning
+2025-02-09,Afternoon,Wrong,Email,70.65,3,340.23,Loyal
+2025-04-14,Morning,Where,Social Media,14.26,6,189.19,New
+2024-12-13,Morning,Which,Email,45.03,2,350.55,Returning
+2025-01-01,Evening,Hospital,Social Media,46.42,4,45.22,Returning
+2024-11-27,Afternoon,Peace,Email,32.79,4,78.05,New
+2025-04-07,Evening,House,Email,43.47,6,193.08,Loyal
+2025-02-07,Morning,Have,Influencer,61.44,7,365.92,Loyal
+2025-02-10,Night,Security,Social Media,90.04,3,215.79,Loyal
+2024-11-06,Afternoon,Adult,In-store,57.58,6,188.87,Returning
+2025-02-12,Night,Power,Influencer,117.84,8,50.92,Loyal
+2025-02-12,Evening,Wide,In-store,37.36,0,377.21,Returning
+2025-03-20,Evening,Very,In-store,101.98,1,81.74,New
+2025-02-08,Night,Scientist,Influencer,93.87,4,175.01,Returning
+2025-03-22,Afternoon,Attack,Social Media,51.65,9,367.97,New
+2025-04-15,Afternoon,Population,In-store,30.6,2,71.09,Returning
+2024-11-10,Night,Court,Email,92.83,10,216.15,New
+2024-11-15,Night,Step,Influencer,30.28,6,250.84,New
+2025-04-21,Afternoon,Energy,In-store,47.02,9,416.06,New
+2024-11-01,Morning,Act,Email,80.72,5,138.89,New
+2025-04-24,Afternoon,Since,Influencer,145.68,6,400.22,New
+2024-12-30,Evening,Necessary,Influencer,81.22,9,210.51,Returning
+2024-12-31,Morning,Visit,Influencer,35.71,7,153.96,New
+2025-02-26,Afternoon,Exist,Influencer,83.36,2,258.13,Returning
+2025-02-12,Evening,Day,Influencer,51.2,2,129.58,Loyal
+2024-12-27,Afternoon,Majority,Email,15.97,0,32.2,Loyal
+2025-04-04,Afternoon,Writer,In-store,135.54,3,311.41,New
+2025-01-25,Night,Push,Email,142.2,3,421.4,Loyal
+2025-01-05,Morning,Card,Email,32.27,0,193.17,Returning
+2024-11-07,Evening,Soldier,In-store,117.99,1,262.83,Loyal
+2025-03-07,Evening,Suffer,Social Media,15.76,4,365.71,Returning
+2025-02-08,Morning,Movie,In-store,9.64,1,100.59,New
+2025-02-27,Night,Claim,Social Media,105.19,7,308.79,Loyal
+2025-02-14,Afternoon,Mrs,Email,62.31,5,368.25,Loyal
+2024-12-01,Night,Knowledge,Influencer,19.71,1,145.78,Returning
+2024-12-13,Afternoon,Right,Social Media,83.29,3,141.07,Returning
+2025-01-10,Morning,Firm,Social Media,16.76,0,482.13,New
+2025-02-04,Night,Night,In-store,69.65,9,146.62,Loyal
+2024-11-12,Afternoon,Audience,Email,99.74,0,428.41,Loyal
+2024-11-17,Afternoon,Rise,In-store,40,4,304.21,Loyal
+2025-04-20,Evening,Black,Email,48.57,10,333.9,Returning
+2024-11-28,Evening,Sense,Social Media,93.68,3,59.4,Returning
+2025-04-16,Morning,Treat,In-store,39.67,10,33.03,New
+2024-11-24,Evening,Growth,Influencer,20.57,0,458.84,Returning
+2024-12-03,Evening,According,Social Media,89.39,9,143.52,New
+2024-12-19,Night,Keep,In-store,58.92,5,446.44,Loyal
+2024-11-02,Night,Type,Influencer,112.65,5,445.11,New
+2024-12-30,Evening,Land,In-store,57.93,5,276.23,Returning
+2024-12-20,Afternoon,Wait,Email,81.57,10,456.96,Returning
+2024-12-30,Night,Make,Influencer,95.7,4,487.89,New
+2024-11-28,Evening,Suffer,Influencer,50.16,6,313.27,Returning
+2024-11-07,Evening,Try,Social Media,134.18,7,487.27,Returning
+2025-04-24,Afternoon,Worker,In-store,137.33,7,274.16,New
+2025-03-16,Evening,Better,Social Media,110.28,2,275.96,Returning
+2025-04-08,Afternoon,Trip,Influencer,57.81,7,74.01,New
+2025-01-11,Evening,Century,Influencer,119.54,8,119.69,New
+2025-04-25,Evening,Statement,Social Media,6.82,8,106.53,New
+2024-12-05,Morning,Radio,Influencer,58.37,6,260.77,Loyal
+2025-02-16,Morning,West,Social Media,27.23,7,64.55,New
+2024-11-06,Morning,Free,Social Media,47.51,4,22.82,Returning
+2025-04-03,Morning,Physical,Influencer,34.36,0,399.26,Returning
+2025-03-03,Afternoon,Large,Social Media,7.85,1,329.25,Loyal
+2025-03-04,Morning,Shake,Social Media,55.17,5,315.77,New
+2025-01-24,Afternoon,Assume,Social Media,5.01,3,55.05,Loyal
+2025-02-10,Night,Anyone,Influencer,52.98,10,417.73,New
+2025-03-14,Night,Staff,Social Media,68.58,6,342.09,Loyal
+2025-01-25,Evening,Win,Influencer,114.94,6,79.19,Returning
+2025-03-03,Morning,Have,Email,90.37,3,265.86,New
+2025-04-18,Afternoon,Foreign,Email,115.82,8,198.86,Returning
+2025-01-14,Night,Fast,In-store,35.03,9,456.05,New
+2025-03-24,Morning,Executive,Email,78.86,4,272.75,Returning
+2024-11-17,Evening,Power,In-store,49.45,5,238.13,Loyal
+2025-02-14,Morning,Method,Email,122.41,10,437.06,Loyal
+2025-03-15,Evening,Pull,Influencer,140.75,6,401.66,Returning
+2025-03-20,Morning,Value,Email,116.02,7,467,Loyal
+2024-12-05,Afternoon,Realize,Email,86.95,6,490.84,Loyal
+2024-12-22,Morning,Town,Social Media,7.07,7,70.9,Loyal
+2025-03-05,Evening,Lawyer,Email,127.52,5,179.28,Loyal
+2025-03-21,Morning,Left,In-store,15.98,3,371.09,Loyal
+2024-11-22,Night,Second,In-store,92.17,9,418.49,Loyal
+2024-11-15,Afternoon,Would,Social Media,18.31,4,273.27,Loyal
+2025-03-29,Morning,Carry,In-store,16.29,2,469.67,New
+2024-11-17,Evening,Fast,Social Media,30.19,8,485.39,Returning
+2025-04-13,Night,Practice,In-store,94.85,9,238.3,Returning
+2025-03-26,Night,Purpose,Social Media,65.15,2,334.85,Loyal
+2024-12-12,Evening,Necessary,Influencer,95.39,2,405.43,New
+2025-02-28,Night,Executive,Email,145.41,7,331.45,Returning
+2024-12-27,Night,Story,Email,6.73,5,201.33,Loyal
+2025-02-01,Night,Street,Email,22.69,1,394.88,New
+2025-04-14,Evening,Rich,In-store,98.92,3,102.26,Returning
+2025-04-03,Morning,Office,Email,142.4,8,28.99,Returning
+2025-01-02,Afternoon,Federal,Influencer,53.1,10,65,New
+2025-03-01,Afternoon,Century,Email,79.83,5,104.8,New
+2025-02-20,Morning,Stop,Email,29.48,7,348.91,New
+2025-02-21,Morning,Central,Social Media,111.38,7,226.58,New
+2024-12-12,Evening,Drive,In-store,137.43,10,322.26,New
+2025-01-05,Morning,Management,Email,92.91,3,246.23,Returning
+2025-04-19,Evening,Card,Email,95.7,6,187.11,Returning
+2024-12-23,Morning,Doctor,In-store,109.7,2,441.53,Returning
+2025-02-18,Evening,Mission,Email,118.87,9,377.03,Loyal
+2025-04-30,Evening,Kid,Influencer,117.26,2,255.76,Loyal
+2024-12-18,Morning,By,Social Media,99.75,9,36.06,Returning
+2025-03-01,Morning,Best,Influencer,58.4,10,278.81,New
+2024-12-26,Afternoon,Experience,Influencer,29.65,10,129.68,New
+2024-12-01,Afternoon,Probably,Influencer,127.34,0,279.55,New
+2025-03-18,Night,Eat,Email,127.11,8,241.32,Loyal
+2025-03-28,Night,Interest,Email,18.79,5,104.69,Loyal
+2025-03-06,Afternoon,Area,Email,76.95,7,42.58,New
+2025-02-20,Afternoon,Later,Social Media,26.69,2,79.16,New
+2025-01-12,Morning,Hand,Social Media,29.06,3,73.87,Loyal
+2024-12-12,Evening,Religious,Social Media,97.85,10,54.34,Returning
+2025-04-03,Afternoon,Off,Social Media,81.62,3,192.09,New
+2025-01-04,Evening,Professor,Social Media,10.01,10,25.42,Loyal
+2024-12-13,Evening,National,Email,123.71,3,67.68,New
+2025-01-27,Morning,Drop,Social Media,96.29,8,186.49,Returning
+2025-03-07,Evening,Kitchen,Email,140.02,2,88.19,Returning
+2025-02-01,Afternoon,Make,Email,96.33,3,277.19,Returning
+2025-01-28,Afternoon,North,Influencer,121.06,10,461.58,Returning
+2024-11-21,Morning,Rise,Email,16.15,8,203,Returning
+2025-02-15,Afternoon,Say,Email,130.37,4,470.77,Returning
+2025-03-13,Afternoon,Impact,Social Media,8.84,10,49.9,Returning
+2025-04-10,Evening,Final,Influencer,75.29,4,288.31,Returning
+2024-11-10,Afternoon,Billion,Email,56.89,2,22.51,Loyal
+2025-01-03,Afternoon,Sure,Influencer,100.4,6,74.59,Loyal
+2025-04-02,Evening,Bank,Social Media,81.31,9,74.96,New
+2024-11-03,Afternoon,Republican,In-store,6.08,7,141.14,Returning
+2025-03-24,Morning,Pay,Social Media,80.67,2,258.1,New
+2025-03-31,Night,Drug,Social Media,130.63,2,497.03,Loyal
+2024-12-25,Night,Strong,Social Media,111.22,7,61.08,Returning
+2025-02-26,Afternoon,Director,Social Media,35.76,1,479.78,Returning
+2025-04-26,Evening,Husband,Social Media,36.6,10,421.67,Loyal
+2024-11-15,Night,Present,In-store,138.47,5,170.78,Loyal
+2024-11-12,Afternoon,Debate,Email,95.25,6,294.27,New
+2025-04-04,Evening,Really,In-store,87.13,9,278.45,New
+2025-03-22,Morning,Cell,Email,64.87,3,187.33,Loyal
+2024-11-16,Night,Radio,Influencer,50.52,9,286.22,New
+2025-04-20,Night,Institution,In-store,53.65,10,335.47,Returning
+2025-02-19,Night,Drive,Email,140.3,2,464.75,Returning
+2025-04-30,Night,Wrong,Influencer,141.35,6,438.4,New
+2025-03-07,Morning,Career,Social Media,19.16,7,217.88,New
+2025-02-28,Afternoon,Out,In-store,125.03,4,102.45,New
+2025-04-09,Night,Writer,Social Media,94.31,5,405.03,Loyal
+2024-12-16,Afternoon,Official,Email,34.13,9,441.52,Loyal
+2024-11-20,Morning,According,In-store,93.91,3,36.53,Returning
+2025-04-20,Morning,Situation,Social Media,66.07,10,402,Loyal
+2024-12-20,Afternoon,Situation,Social Media,76.03,5,367.7,New
+2024-11-21,Afternoon,With,Email,112.42,2,328.44,Loyal
+2024-12-01,Afternoon,Event,Influencer,40.93,4,399.58,New
+2025-03-21,Afternoon,Road,Email,74.23,5,483.52,Returning
+2025-01-30,Afternoon,Production,Influencer,108.68,4,31.23,New
+2025-02-06,Night,Public,Influencer,119.35,2,207.66,Returning
+2025-03-13,Evening,Word,Social Media,39.54,4,467.94,Loyal
+2025-01-14,Morning,Half,Email,119.74,2,183.78,Loyal
+2025-01-17,Evening,Traditional,Email,81.68,3,400.37,Loyal
+2025-03-15,Night,Collection,Email,37.87,1,497.92,New
+2025-02-25,Afternoon,Foreign,Email,79.1,6,58,Loyal
+2025-03-09,Night,Myself,Email,75.4,7,324.88,Loyal
+2025-03-11,Afternoon,Government,Influencer,96.56,0,258.42,New
+2024-11-10,Evening,Heavy,Social Media,38.32,4,468.06,Loyal
+2024-12-05,Evening,Herself,In-store,115.09,3,123.31,Loyal
+2025-04-30,Evening,Spend,Influencer,91.26,4,326.9,New
+2024-12-07,Night,Stand,In-store,93.11,1,44.45,Returning
+2025-04-19,Night,Really,Influencer,79.24,4,238.77,Loyal
+2025-01-14,Evening,Speak,In-store,134.93,8,439.54,Returning
+2025-04-07,Night,Beat,Social Media,89.18,6,252.92,Returning
+2024-11-15,Night,Church,Email,64.58,0,286.31,Returning
+2024-11-26,Afternoon,Hit,Influencer,29.83,5,58.61,Loyal
+2025-03-09,Afternoon,Seat,Social Media,143.93,4,402.38,Loyal
+2024-12-11,Night,Among,In-store,49.66,2,302.62,Loyal
+2025-02-02,Night,Plan,Influencer,132.58,6,90.64,Returning
+2024-11-21,Afternoon,Station,Email,145.05,0,57.39,Loyal
+2025-01-28,Morning,City,Email,74.51,6,148.33,New
+2024-12-02,Afternoon,North,Influencer,78.05,7,210.07,Loyal
+2025-03-31,Morning,Medical,Influencer,107.1,4,399,Loyal
+2024-11-19,Night,Professor,Email,104.67,9,170.05,Loyal
+2025-04-14,Evening,Son,Email,98.06,9,485.33,Loyal
+2025-03-13,Morning,Back,Email,99.74,6,199.83,Returning
+2024-11-25,Afternoon,Alone,Email,86.49,5,73.98,New
+2024-12-13,Night,Risk,Social Media,62.93,7,411.68,New
+2025-01-19,Night,Painting,Social Media,7.71,8,79.18,Returning
+2025-03-05,Night,Treat,Email,70.46,3,474.75,New
+2025-03-03,Afternoon,Parent,Social Media,102.99,10,46.78,Loyal
+2024-12-28,Evening,Travel,Social Media,139.09,1,138.59,Loyal
+2024-11-24,Morning,Building,Influencer,127.05,7,423.19,Loyal
+2025-04-20,Afternoon,Away,Email,136.96,0,340.15,Returning
+2025-04-08,Night,Inside,Social Media,103.23,8,308.18,New
+2025-04-11,Evening,Well,In-store,103.14,7,296.35,Returning
+2025-04-17,Afternoon,Television,Influencer,25.64,9,464.69,New
+2024-11-18,Night,Without,Email,130.83,0,475.53,Returning
+2024-11-17,Afternoon,Thing,Influencer,126.92,0,270.68,Loyal
+2025-02-16,Evening,In,In-store,62.78,8,135.84,New
+2025-01-04,Afternoon,Health,In-store,13.34,0,93.84,Returning
+2025-03-08,Night,Kid,Email,25.97,8,221.39,Returning
+2025-03-31,Night,Take,Email,109.91,8,76.33,New
+2025-01-03,Night,Table,In-store,102.89,2,126.62,Loyal
+2025-03-01,Morning,Most,Social Media,130.77,6,383.88,Loyal
+2025-01-02,Night,Treat,In-store,56.16,9,326.51,New
+2025-04-22,Evening,Manage,Email,94.09,6,276.05,New
+2025-01-17,Morning,Tell,In-store,53.03,10,395.71,Loyal
+2025-01-28,Morning,Street,Email,76.15,3,392.08,Returning
+2024-12-12,Afternoon,Top,Influencer,88.88,4,177.58,New
+2025-04-03,Afternoon,Picture,In-store,143.31,1,424.09,Loyal
+2025-04-03,Night,Occur,Influencer,126.38,4,266.41,Returning
+2025-04-03,Evening,Paper,Influencer,144.52,6,23.62,New
+2024-12-19,Morning,Interest,Social Media,117.86,2,494.59,Returning
+2025-03-25,Afternoon,Above,Influencer,25.46,8,337.09,New
+2025-04-16,Morning,Success,In-store,141.28,2,342.2,New
+2024-12-29,Morning,Great,Influencer,21.39,10,215.01,Returning
+2024-11-14,Afternoon,Fight,Social Media,96.05,6,59.06,Returning
+2025-03-17,Morning,Mrs,Influencer,76.02,0,285.44,New
+2024-11-04,Night,List,Email,62.42,5,133.82,New
+2025-01-09,Morning,Day,Influencer,100.39,9,378.34,New
+2025-04-24,Night,Major,Social Media,27.87,7,150.69,Loyal
+2025-04-11,Afternoon,Personal,Social Media,82.03,2,61.56,New
+2025-04-05,Afternoon,Way,Influencer,14.29,1,474.56,New
+2025-02-16,Morning,My,Social Media,146.23,9,139.18,New
+2025-01-27,Afternoon,News,Email,112.82,3,114.07,Returning
+2024-12-02,Night,Administration,Email,138.88,10,212.61,Loyal
+2025-01-01,Night,Very,Influencer,27.62,5,87.95,Returning
+2024-11-04,Afternoon,Price,In-store,124.11,5,177.74,Loyal
+2025-04-27,Morning,Know,In-store,60.23,10,36.32,Loyal
+2025-04-07,Morning,Such,Email,39.06,7,162.45,Returning
+2025-04-01,Morning,Real,Email,61.63,10,152.04,New
+2025-03-25,Evening,Suffer,Social Media,122.6,9,297.94,Loyal
+2025-04-13,Afternoon,Hotel,Email,42.36,6,412.58,Returning
+2025-04-14,Night,Power,Influencer,7.65,4,359.39,Loyal
+2025-02-20,Night,Carry,In-store,29.66,4,367.71,Returning
+2025-02-04,Afternoon,Memory,Influencer,84.59,4,192.48,New
+2024-11-06,Night,Concern,Influencer,73.95,6,373.45,New
+2025-01-23,Evening,We,Email,107.86,2,51.41,New
+2024-11-16,Night,Situation,Email,48.09,0,250.27,Returning
+2025-01-09,Evening,Detail,Influencer,101.06,9,91.61,New
+2025-01-21,Afternoon,Commercial,Influencer,79.55,1,274.99,New
+2024-11-26,Night,Rise,Email,68.85,5,412.73,New
+2025-03-11,Evening,Than,In-store,109.42,2,187.18,Loyal
+2025-02-28,Evening,Under,Email,17.21,8,222.11,Loyal
+2025-03-23,Night,Involve,Email,110.57,9,321.47,New
+2024-12-20,Morning,Suffer,In-store,88.53,4,453.92,New
+2025-02-01,Morning,Important,In-store,125.65,10,419.47,Loyal
+2024-11-29,Evening,Ahead,Social Media,32.48,1,321.82,Returning
+2025-02-08,Night,Difference,In-store,47.12,6,224.97,Loyal
+2025-02-15,Afternoon,Argue,Influencer,35.1,6,378.25,Loyal
+2025-04-13,Afternoon,Small,Influencer,88.87,6,327.71,New
+2025-04-25,Afternoon,Recent,Influencer,140.45,0,23.96,Returning
+2025-02-15,Night,Keep,Email,72.05,0,435.82,Loyal
+2025-01-03,Morning,Treatment,Email,112.14,0,198.25,Loyal
+2025-02-08,Morning,Southern,Email,121.41,8,280.35,Returning
+2025-01-31,Morning,Matter,In-store,86.03,10,296.98,Loyal
+2025-03-18,Evening,Forget,Influencer,65.1,2,113.27,Returning
+2025-03-19,Night,Each,In-store,79.88,2,120.67,Returning
+2024-11-10,Afternoon,Size,In-store,22.08,4,400.02,New
+2025-03-07,Afternoon,Own,Social Media,83.3,4,118.43,New
+2025-02-11,Evening,Life,In-store,77.03,0,51.21,Returning
+2025-01-26,Afternoon,Dark,Influencer,146.76,0,40.58,New
+2025-04-26,Night,Anything,Influencer,6.36,2,111.77,Returning
+2024-12-28,Evening,Leader,In-store,101.69,5,318.25,Returning
+2025-01-21,Afternoon,Cut,Email,41.66,2,439,Returning
+2025-04-07,Afternoon,Race,Influencer,134.16,5,457.11,New
+2025-01-31,Night,Nearly,Email,68.96,5,403.02,Loyal
+2025-03-05,Morning,Amount,Influencer,135.88,10,431.87,Loyal
+2024-12-18,Night,Million,Influencer,19.73,5,66.64,New
+2025-02-19,Evening,Central,Social Media,103.52,3,176.16,New
+2024-11-12,Morning,Wear,Influencer,60.66,5,358.23,Returning
+2025-01-02,Night,Him,Email,30.13,0,441.34,Loyal
+2025-01-20,Morning,Late,Email,73.08,3,41.91,New
+2025-01-24,Afternoon,Have,In-store,21.9,9,218.82,New
+2025-01-07,Morning,Then,Influencer,104.31,0,176.72,New
+2025-04-11,Afternoon,Administration,Social Media,96.4,4,307.27,Loyal
+2025-01-16,Afternoon,Attack,In-store,97.29,8,455.36,Returning
+2024-11-27,Afternoon,Someone,Influencer,44.74,3,168.31,Returning
+2025-01-14,Evening,Part,Email,12.86,6,429.65,Loyal
+2024-11-22,Afternoon,Necessary,Email,95.78,9,73.13,New
+2024-12-18,Afternoon,Religious,In-store,54.96,8,191.02,Returning
+2025-02-19,Morning,Firm,Email,37.51,8,303.85,Loyal
+2024-11-15,Morning,Evidence,Social Media,122.18,6,109.82,Returning
+2025-04-14,Morning,Final,Influencer,97.35,7,193.91,Loyal
+2025-03-29,Afternoon,Stuff,In-store,14.5,7,367.11,Returning
+2025-01-31,Morning,At,Email,147.9,2,251.63,Loyal
+2025-04-24,Afternoon,Million,In-store,115.99,10,482.4,New
+2025-03-16,Evening,Raise,Social Media,110.93,2,349.7,New
+2024-10-30,Evening,Forget,Influencer,74.13,9,328.44,Returning
+2025-04-03,Evening,Career,Social Media,36.34,3,446.31,Returning
+2024-11-25,Morning,Effect,Social Media,138.09,10,128.69,Loyal
+2025-03-10,Morning,No,Influencer,138.02,5,33.45,Loyal
+2025-04-09,Night,Country,Email,39.81,4,286.28,Returning
+2024-12-18,Night,Agreement,In-store,19.35,7,325.21,Loyal
+2025-01-16,Night,Sense,Social Media,28.31,0,135.57,Loyal
+2025-04-16,Morning,Do,Email,34.44,0,351.85,New
+2025-01-17,Evening,Stop,Influencer,46.08,2,111.23,Loyal
+2025-03-14,Night,Other,In-store,125.41,9,413.08,Loyal
+2025-01-09,Morning,Yourself,Email,80.2,10,399.16,Returning
+2025-01-19,Morning,Instead,Influencer,37.68,3,439.64,Loyal
+2025-03-10,Evening,Tv,Email,94.04,0,187.27,New
+2025-04-03,Afternoon,Decide,Influencer,41.83,1,269.08,Returning
+2025-04-10,Evening,Worry,Social Media,58.97,8,338.91,New
+2024-12-26,Night,Old,Email,23.98,2,332.19,Loyal
+2025-03-26,Morning,Present,Email,54.24,3,160.91,New
+2025-01-27,Afternoon,Check,Social Media,111.34,9,327.5,Loyal
+2024-12-24,Afternoon,Or,In-store,104.38,8,350.58,Loyal
+2024-11-11,Evening,Rate,Social Media,6.26,3,38,Loyal
+2025-02-14,Afternoon,Police,Influencer,17.14,3,482.14,New
+2025-03-03,Night,During,Social Media,104.12,10,174.91,Loyal
+2025-03-28,Morning,Back,Email,14.49,7,195.22,Loyal
+2024-11-15,Afternoon,Imagine,Email,99.15,1,255.16,Returning
+2025-01-04,Afternoon,You,Influencer,126.48,0,302.58,Returning
+2025-04-26,Morning,Cause,Email,32.71,2,368.27,New
+2025-02-09,Night,Space,Social Media,71.08,2,163.37,Returning
+2025-02-05,Evening,Reflect,Social Media,123.24,1,180.23,Returning
+2024-12-03,Afternoon,Eight,In-store,12.1,2,97.3,Loyal
+2025-02-19,Evening,Family,Email,145.98,2,257.05,Returning
+2024-12-28,Morning,Soon,In-store,63.05,5,100.67,Returning
+2025-02-19,Morning,Than,Email,67.37,8,127.65,New
+2025-02-02,Night,Thing,In-store,12.13,0,40.4,Loyal
+2025-01-13,Evening,Herself,Email,29.53,5,303.45,Loyal
+2025-01-12,Night,Budget,In-store,119.73,9,392.19,Loyal
+2025-02-21,Night,Suggest,Influencer,24.75,9,384.43,Loyal
+2025-01-03,Morning,Talk,Email,54.25,1,121.52,Returning
+2025-03-03,Morning,Notice,Influencer,9.86,8,316.98,Returning
+2025-02-01,Morning,Particular,Social Media,73.77,4,471.01,Returning
+2024-12-09,Morning,Machine,Email,107.3,5,267.14,Loyal
+2025-04-20,Evening,Mother,Email,112.15,10,456.46,New
+2024-12-06,Morning,Soldier,Influencer,39.56,5,36.81,Loyal
+2025-01-04,Evening,Usually,Influencer,52.51,0,330.49,New
+2025-02-20,Night,Third,Email,144.92,1,400.51,Loyal
+2025-01-26,Night,Write,Influencer,131.53,3,58.8,Loyal
+2024-12-22,Afternoon,Business,In-store,101.26,6,452.99,Returning
+2024-11-15,Evening,Public,Email,40.92,6,62.12,New
+2025-04-05,Evening,Great,Influencer,52.42,9,290.08,Loyal
+2025-04-11,Afternoon,Though,Social Media,69.28,5,266.81,Loyal
+2025-02-03,Morning,Account,Email,129.15,3,293.16,Returning
+2025-03-25,Evening,Region,Influencer,5.27,4,186.75,New
+2025-03-20,Night,Fear,Social Media,6.51,9,492.77,New
+2025-02-09,Evening,Open,Social Media,96.61,0,255.97,New
+2025-01-07,Night,Pm,Social Media,147.54,10,190.35,Loyal
+2024-12-20,Night,Professor,Email,36.67,5,248.12,Loyal
+2025-02-11,Evening,Fish,In-store,106.07,3,398.5,Loyal
+2025-01-09,Morning,Draw,Influencer,98.34,1,230.26,Returning
+2025-04-07,Morning,Summer,Email,66.71,8,141.91,Loyal
+2025-04-12,Morning,Page,Influencer,26.43,5,491.11,New
+2025-03-31,Evening,Career,Social Media,94.2,0,410.58,Returning
+2024-11-26,Afternoon,Window,Email,21.66,7,300.96,New
+2025-01-09,Morning,Wind,Influencer,47.06,1,458.79,Returning
+2025-01-23,Night,Enter,In-store,73.24,4,376.19,New
+2025-03-10,Evening,Would,Influencer,99.38,1,463.26,Loyal
+2025-04-19,Morning,Think,Social Media,56.55,7,249.48,New
+2025-01-04,Evening,Once,Email,44.89,1,402.89,Loyal
+2025-01-03,Morning,Continue,In-store,94.15,7,252.95,Returning
+2025-04-10,Evening,Rich,Email,17.18,10,126.61,New
+2025-02-23,Evening,Order,Email,41.77,2,306.96,Loyal
+2025-03-19,Afternoon,Now,Social Media,39.07,7,120.44,New
+2025-01-22,Morning,Nice,Email,63.38,2,209.49,New
+2025-01-24,Afternoon,Story,Email,120.96,1,345.52,New
+2025-04-09,Evening,Whose,Email,15.29,10,364.46,Loyal
+2025-02-24,Morning,International,Social Media,30.37,10,418.93,New
+2025-03-28,Evening,Become,Email,41.59,5,57.31,New
+2024-11-25,Morning,Article,Social Media,6.27,5,41.72,Returning
+2025-04-12,Night,Dog,Email,8.65,10,403.96,Loyal
+2025-02-05,Evening,Late,Social Media,82.13,8,493.31,Loyal
+2024-11-25,Morning,Risk,Influencer,72.53,5,424.99,Returning
+2024-12-05,Morning,Card,In-store,60.98,3,69.76,New
+2024-11-04,Morning,Evening,In-store,86.13,0,171.99,Loyal
+2024-11-21,Night,Southern,In-store,12.77,1,107.98,Returning
+2025-03-26,Morning,Give,Email,62.56,10,418.12,New
+2025-03-24,Evening,Themselves,Email,40.02,4,89.97,New
+2024-12-11,Night,You,Influencer,18.23,4,63.03,Loyal
+2025-02-13,Evening,That,Social Media,92.72,0,163.96,Returning
+2025-01-31,Afternoon,Serve,Influencer,144.92,7,119.24,Returning
+2024-11-18,Evening,Away,In-store,35.82,7,356.81,Returning
+2024-12-27,Evening,Idea,Influencer,59.67,6,347.57,Returning
+2025-03-01,Afternoon,Song,Influencer,53.5,9,79.76,New
+2024-12-29,Morning,Various,Social Media,61.03,4,24.02,Returning
+2024-11-19,Afternoon,Kid,Email,11.75,0,225.93,Loyal
+2024-12-24,Afternoon,Mention,Email,20.86,1,44.14,Returning
+2025-01-03,Afternoon,Especially,Influencer,122.27,7,320.67,Returning
+2024-12-05,Evening,Off,Social Media,46.44,0,332.24,New
+2025-02-15,Evening,Beyond,Influencer,137.02,5,25.83,Returning
+2025-01-10,Night,Board,Social Media,15.53,0,56.75,Loyal
+2025-02-14,Night,Manage,Email,9.76,2,301.26,New
+2025-04-05,Afternoon,Data,Social Media,75.47,6,140.03,Returning
+2024-11-10,Evening,Way,Social Media,144.89,3,370.6,Loyal
+2025-02-03,Afternoon,Statement,Social Media,12.58,3,378.42,Returning
+2025-04-19,Morning,Million,Email,27.17,2,61.74,Returning
+2025-04-10,Night,Would,Email,32.03,7,297,Returning
+2024-11-06,Morning,Language,Social Media,38.45,1,236.43,New
+2024-11-28,Night,Pull,Email,89.06,9,352.31,Returning
+2024-11-11,Morning,Record,Influencer,94.4,10,205.04,Loyal
+2025-02-15,Afternoon,Deep,In-store,124.98,5,56.77,Loyal
+2024-11-26,Morning,Since,Email,23.39,7,388.65,New
+2025-01-06,Afternoon,Born,In-store,91.14,4,168.04,New
+2025-01-08,Afternoon,Stay,In-store,74.91,8,456.39,New
+2024-10-31,Evening,Also,In-store,137.55,0,334.95,Returning
+2024-12-18,Evening,People,Influencer,98.55,9,51.33,Loyal
+2025-04-17,Morning,Board,Influencer,9.72,7,362.66,Returning
+2025-04-22,Night,Article,Email,25.21,9,375.67,New
+2024-11-23,Evening,Push,Email,97.15,6,465.97,Returning
+2025-02-18,Evening,Mean,Social Media,118.51,4,363.07,New
+2024-12-20,Evening,Million,Email,6.47,8,470.4,New
+2024-12-03,Morning,Story,Influencer,22.64,8,221.96,Returning
+2025-02-03,Night,Third,Email,143.87,0,398.04,New
+2025-02-18,Morning,Situation,Influencer,62.62,5,73.64,Returning
+2024-12-04,Evening,Yet,Influencer,144.32,4,287.09,Returning
+2025-02-21,Afternoon,Eat,Email,68.02,5,488.86,Loyal
+2025-02-04,Morning,Onto,Influencer,74.14,1,320.01,Loyal
+2024-12-19,Afternoon,Song,In-store,72.98,3,238.01,Loyal
+2024-12-20,Evening,Discussion,Social Media,23.45,10,34.94,Returning
+2025-04-04,Afternoon,Consumer,Influencer,132.81,6,88.49,Loyal
+2025-04-28,Morning,Late,Social Media,90.73,1,44.5,Loyal
+2024-12-04,Evening,Back,Email,76.38,9,289.04,New
+2024-12-13,Morning,Team,Email,89.28,6,178.97,New
+2024-12-15,Afternoon,Clearly,Social Media,69.39,6,176.96,New
+2025-02-04,Night,Leader,In-store,138.05,1,404.61,Returning
+2024-11-18,Morning,Although,In-store,109.29,7,348.09,Returning
+2024-11-01,Morning,Space,Email,52.7,8,108.72,Returning
+2024-11-05,Evening,Still,In-store,21.06,7,147.46,Returning
+2025-02-25,Morning,East,Influencer,27.72,6,93.09,Loyal
+2025-03-07,Morning,Brother,In-store,142.22,3,56.63,Returning
+2024-11-08,Afternoon,Threat,Influencer,13.84,4,97.03,Loyal
+2024-11-27,Evening,Order,Social Media,30.72,8,241.79,New
+2025-04-10,Morning,Matter,Email,67.17,4,241.37,Returning
+2025-04-18,Evening,High,Social Media,144.24,4,392.91,Loyal
+2025-01-25,Night,Pass,Email,27.12,9,406.26,Returning
+2025-03-28,Night,Project,Influencer,117.66,1,375.62,New
+2024-11-11,Night,Rise,Influencer,147.83,7,298.87,New
+2025-03-19,Night,Energy,In-store,128.95,3,54.19,Returning
+2024-12-16,Night,Hour,In-store,66.68,10,329.46,New
+2024-11-01,Night,Away,In-store,76.52,5,354.97,Returning
+2025-03-08,Morning,Yard,Email,31.42,1,455.71,Returning
+2024-12-22,Night,Put,In-store,37.95,6,274.43,Returning
+2025-01-30,Morning,Staff,In-store,129.31,7,96.18,Returning
+2024-12-09,Night,Major,Social Media,52.9,3,366.28,Loyal
+2024-12-10,Morning,Support,In-store,118.08,8,191.17,New
+2025-01-17,Evening,Require,Influencer,79.26,4,271.2,Returning
+2025-03-25,Night,Yard,Social Media,82.3,6,80.09,New
+2024-11-17,Evening,Participant,In-store,64.8,8,424.55,New
+2025-01-12,Night,Eight,Influencer,29.01,5,286.16,New
+2025-04-20,Night,Parent,In-store,137.54,5,186.02,Returning
+2024-12-10,Afternoon,War,In-store,50.63,7,284.8,Loyal
+2024-11-04,Night,Drive,Email,70.06,0,377.88,New
+2024-12-31,Afternoon,Measure,In-store,5.31,4,266.45,Loyal
+2025-04-26,Afternoon,Newspaper,Email,100.82,1,260.77,Returning
+2025-03-08,Night,Century,Social Media,145.64,8,349.42,New
+2025-02-18,Afternoon,Senior,In-store,113.33,7,443.73,New
+2025-04-28,Morning,Field,Influencer,143.79,5,23.67,New
+2025-03-06,Evening,Simply,Influencer,7.22,6,225.68,New
+2025-02-24,Evening,Style,Influencer,148.56,3,238.12,New
+2024-12-12,Afternoon,Particularly,In-store,135.58,3,426.06,Returning
+2024-11-06,Morning,Lot,Email,26.52,3,296.01,Returning
+2025-02-03,Evening,Though,Influencer,14.64,3,288.39,New
+2025-04-05,Evening,Skill,Social Media,141.66,5,315.78,Loyal
+2025-01-20,Evening,Kitchen,In-store,64.48,2,463.94,Loyal
+2024-11-05,Evening,Usually,Social Media,24.86,9,106.6,Loyal
+2025-01-21,Evening,Expect,Influencer,39.64,0,381.75,Loyal
+2025-03-17,Evening,Class,Email,26.11,6,49.67,Loyal
+2025-03-17,Evening,Break,Email,26.22,7,390.56,Returning
+2025-01-06,Morning,From,Social Media,124.62,2,332.42,Loyal
+2024-11-25,Morning,Change,Social Media,125.08,0,261.51,Returning
+2024-11-27,Evening,Option,Social Media,14.66,7,66.16,Loyal
+2025-04-25,Night,Network,In-store,120.38,1,218.02,New
+2024-11-13,Afternoon,Different,In-store,100.44,3,433.03,New
+2024-11-16,Evening,Owner,Email,121.46,1,173.35,Returning
+2024-11-14,Morning,Community,In-store,85.31,8,119.76,Returning
+2025-01-26,Morning,Various,Influencer,92.47,4,352,Loyal
+2025-03-09,Night,Throughout,Email,146.28,3,489.97,Returning
+2025-03-27,Morning,Deep,Influencer,131.45,3,286.31,Loyal
+2025-01-01,Morning,Mother,In-store,117.53,7,264.12,New
+2025-04-29,Night,Build,Influencer,104.4,1,148.99,Loyal
+2025-02-28,Afternoon,Better,Social Media,36.19,6,116.8,Returning
+2025-03-16,Afternoon,Foreign,In-store,69.83,8,365.86,Returning
+2025-04-14,Night,Form,In-store,92.77,10,457.29,New
+2024-12-22,Afternoon,Suffer,Email,138.45,5,226.55,New
+2025-02-05,Night,Field,Social Media,54.81,2,145.52,Returning
+2025-03-27,Afternoon,Important,Social Media,63.09,10,430.51,New
+2025-04-24,Evening,Buy,In-store,23.54,7,109.05,Returning
+2025-01-18,Morning,Conference,Email,68.09,10,222.43,New
+2025-01-21,Morning,Goal,Email,41.78,2,252.97,New
+2025-02-06,Morning,Upon,Email,69.38,10,73.35,Returning
+2025-02-18,Night,Organization,Influencer,58.8,2,220.36,Loyal
+2024-11-03,Morning,Former,Email,73.41,5,474.79,Returning
+2024-11-23,Evening,Nice,Influencer,32.4,1,68.39,Loyal
+2025-02-02,Afternoon,Green,In-store,58.35,2,459.75,Returning
+2025-02-28,Night,Free,Email,19.32,0,352.69,New
+2025-02-08,Morning,Improve,In-store,34.99,9,92.32,Returning
+2025-01-15,Night,Hot,Email,132.11,4,373.97,Loyal
+2025-03-09,Evening,Anyone,In-store,135.15,7,255.51,Loyal
+2025-01-24,Night,Skin,In-store,10.09,10,430.19,New
+2024-11-30,Afternoon,Customer,In-store,143.23,0,189.03,Loyal
+2025-01-04,Evening,Billion,Influencer,17.35,7,332.61,Returning
+2025-04-17,Afternoon,Well,Email,57.74,4,230.41,New
+2025-04-18,Afternoon,Check,Influencer,11.28,3,365.33,Loyal
+2024-12-24,Morning,Everyone,Email,57.9,4,297.35,New
+2024-12-06,Morning,Bed,Influencer,27.79,4,88.9,Loyal
+2024-12-10,Evening,Become,Social Media,81.58,6,384.26,Returning
+2025-02-09,Night,Stage,In-store,108.01,0,99.1,New
+2024-11-08,Afternoon,Fire,In-store,59.92,7,109.14,New
+2025-03-29,Afternoon,Change,Social Media,90.42,3,433.59,Loyal
+2025-04-14,Afternoon,About,Email,89.69,8,275.6,Returning
+2025-02-04,Morning,Serve,Influencer,121.01,9,90.22,Returning
+2025-03-06,Afternoon,Include,Email,122.9,4,271.34,Loyal
+2025-02-24,Morning,Rate,Email,120.02,2,445.75,New
+2024-12-28,Evening,Compare,Social Media,44.65,8,218.62,Loyal
+2025-04-17,Morning,Great,In-store,65.4,4,249.43,New
+2025-04-14,Afternoon,Small,In-store,101.23,5,370.53,Returning
+2025-04-19,Night,Poor,Social Media,72.95,0,329.1,New
+2025-01-19,Morning,Clear,Social Media,93.45,8,445.95,Returning
+2025-04-11,Morning,General,In-store,145.53,0,274.27,New
+2025-04-26,Morning,Hour,Email,15.88,1,470.25,New
+2024-11-28,Afternoon,Movement,Social Media,94.32,5,33.18,Loyal
+2024-11-25,Night,Least,Influencer,90.79,9,214.84,Loyal
+2024-11-23,Night,Carry,Social Media,66.3,1,459.15,Returning
+2025-03-12,Morning,Father,Influencer,123.89,10,158.85,Loyal
+2025-04-16,Evening,Pressure,Influencer,72.61,2,286.59,New
+2025-02-13,Evening,Carry,In-store,37.96,0,144.81,Returning
+2024-11-07,Morning,Involve,Influencer,36.37,8,394.81,New
+2024-12-14,Evening,My,Influencer,136.69,6,280.98,New
+2024-11-14,Afternoon,Follow,Email,60.01,1,455.19,Loyal
+2025-02-20,Evening,Little,Email,10.92,7,48.06,New
+2025-03-13,Morning,Hold,Influencer,87.79,3,248.02,Returning
+2024-11-23,Night,Talk,Email,61.8,10,66.43,Loyal
+2025-04-25,Evening,Force,Social Media,77.45,9,57.48,Loyal
+2025-03-14,Night,Single,Influencer,71.2,10,324.92,Returning
+2025-01-25,Afternoon,Need,In-store,86.83,2,181.92,New
+2024-11-03,Afternoon,Sell,Social Media,100.85,8,228.94,Loyal
+2024-11-28,Evening,Help,In-store,130.31,1,241.64,New
+2025-01-02,Night,Until,Email,141.93,4,391.6,Loyal
+2025-02-23,Evening,Be,In-store,16.23,1,374.35,New
+2025-02-16,Night,Pull,In-store,67.33,0,380.32,New
+2025-01-20,Night,Show,Email,15.59,1,351.54,New
+2025-02-05,Night,Good,Email,30.47,5,414.94,Loyal
+2025-04-08,Evening,Fish,Social Media,17.32,5,339.88,New
+2025-03-15,Night,Top,Influencer,112.62,6,486.2,New
+2025-01-01,Night,Within,Email,116.21,4,292.49,Loyal
+2024-11-03,Night,In,Social Media,97.28,5,408,Loyal
+2025-01-22,Night,Center,Email,69.17,7,109.21,Returning
+2025-03-06,Night,Collection,In-store,14.31,5,363.9,Loyal
+2025-01-17,Night,To,Email,120.53,2,154.18,New
+2025-01-18,Evening,Stuff,Email,111.37,5,159.41,Returning
+2025-02-15,Afternoon,Thought,Email,10.5,3,273.37,Loyal
+2025-04-23,Evening,Structure,In-store,48.95,8,469.07,New
+2025-03-06,Afternoon,Film,Email,105.53,1,256.87,Loyal
+2024-11-30,Afternoon,Name,Influencer,42.93,9,195.83,Returning
+2025-04-26,Night,Husband,In-store,20.26,8,250.34,Loyal
+2025-01-04,Morning,Into,Influencer,58.33,0,222.02,New
+2025-01-07,Evening,Design,Social Media,89.83,3,397.05,Loyal
+2025-01-25,Night,Mention,Influencer,126.82,10,420.24,Loyal
+2025-04-11,Night,Along,Influencer,23.79,10,291.86,Loyal
+2024-12-17,Morning,Discuss,Influencer,113.07,5,183.88,Loyal
+2025-03-10,Afternoon,Want,Email,120.16,7,495.1,Loyal
+2025-03-13,Afternoon,Large,Social Media,73.15,1,261.75,New
+2024-12-10,Afternoon,Better,Influencer,97.13,9,224.19,New
+2025-04-02,Morning,Us,Influencer,101.6,4,188.89,New
+2024-12-31,Evening,Staff,In-store,45.45,4,342.18,Loyal
+2025-02-13,Evening,Soon,Email,29.08,7,412.21,Loyal
+2025-03-01,Morning,Effort,Influencer,53.57,3,278.09,Returning
+2024-11-27,Evening,New,Social Media,72.05,3,229.92,New
+2025-04-13,Evening,Mrs,Email,139.55,6,457.4,Loyal
+2024-12-12,Morning,Information,In-store,108.77,2,135.68,Loyal
+2025-01-23,Night,Able,Influencer,71.74,0,37.57,Returning
+2025-03-08,Night,Ok,Influencer,46.47,8,497.53,New
+2025-03-01,Afternoon,Assume,Influencer,31.9,6,402.16,Returning
+2024-12-30,Afternoon,Add,Email,29.48,3,201,New
+2025-02-24,Night,A,Social Media,66.31,1,299.4,New
+2024-12-28,Night,Board,In-store,141.17,4,40.46,New
+2025-04-03,Night,Move,Influencer,54.88,1,134.18,New
+2024-12-04,Morning,Outside,Email,19.55,6,440.52,Loyal
+2024-12-12,Night,Crime,Social Media,61.21,4,313.37,Returning
+2024-12-05,Afternoon,Everybody,Influencer,71.33,7,59.92,New
+2025-01-01,Evening,Chair,In-store,31.42,5,54.72,Loyal
+2024-11-30,Night,Soldier,Social Media,20.47,7,482.31,Loyal
+2025-03-27,Evening,Must,Influencer,147.81,3,152.35,Loyal
+2025-04-11,Evening,Two,Email,14.77,9,356.89,Returning
+2024-11-30,Morning,Form,Influencer,16.3,2,163.82,Returning
+2025-03-26,Morning,Age,In-store,59.16,6,298.76,Loyal
+2025-01-17,Night,Require,Influencer,142.74,7,466.82,Loyal
+2025-02-12,Evening,Determine,In-store,148.45,0,201.07,Loyal
+2024-12-28,Night,Prevent,In-store,19.69,1,488.88,Loyal
+2025-03-04,Night,Including,Influencer,37.3,2,27.04,New
+2024-11-15,Morning,Suddenly,Influencer,131.43,6,273.17,Loyal
+2025-02-04,Morning,Theory,Influencer,86.93,10,220.1,Returning
+2025-03-14,Afternoon,Whom,In-store,44.95,6,279.12,New
+2025-03-30,Evening,Shoulder,Email,142.6,0,352.83,Loyal
+2024-11-24,Morning,Too,Email,138.06,3,493.37,Returning
+2024-11-23,Evening,Marriage,In-store,109.1,0,377.34,Returning
+2024-12-20,Afternoon,Effort,In-store,24.79,8,189.4,New
+2025-04-21,Afternoon,Radio,Social Media,33.83,5,459.67,Returning
+2024-11-15,Evening,Represent,Social Media,50.71,1,497.86,Returning
+2025-01-15,Morning,Mention,In-store,82.84,1,155.64,Loyal
+2025-02-09,Evening,Stop,Social Media,6.97,3,412.49,New
+2024-11-14,Evening,Between,Social Media,23.28,2,102.88,Returning
+2025-02-11,Evening,Call,Influencer,102.09,2,123.88,New
+2025-02-08,Morning,Plant,Email,135.63,9,396.23,New
+2024-11-10,Evening,Itself,In-store,137.22,8,427.08,New
+2025-02-17,Evening,Measure,Influencer,93.89,5,118.2,Returning
+2025-01-25,Night,Card,Influencer,135.59,0,101.53,New
+2025-01-31,Morning,Save,Social Media,77.85,1,190.34,Returning
+2025-04-16,Night,Easy,In-store,83.56,5,434.88,Loyal
+2025-04-11,Evening,My,In-store,20.07,3,312.44,Returning
+2024-11-16,Night,National,Social Media,84.52,1,304.39,Loyal
+2025-03-02,Morning,She,Influencer,29.75,5,125,Loyal
+2025-04-07,Evening,Trip,Email,47.57,4,429.78,Loyal
+2025-03-03,Afternoon,Program,Email,16.64,1,220.22,Loyal
+2024-12-25,Evening,Sort,In-store,93.39,1,431.61,New
+2025-01-04,Morning,Significant,Social Media,68.2,0,82.67,Loyal
+2025-03-02,Afternoon,Another,Influencer,69.66,5,419.26,New
+2025-02-03,Night,Land,Social Media,105.11,10,162.71,Returning
+2025-03-31,Morning,Already,Email,5.4,1,38.12,Loyal
+2025-02-13,Evening,Support,In-store,127.37,4,246.09,Returning
+2025-01-24,Afternoon,Lay,Influencer,80.66,9,317.61,Loyal
+2025-04-26,Afternoon,Involve,Email,39.56,8,480.61,New
+2025-03-02,Evening,Fact,In-store,81.76,9,57.63,Loyal
+2025-03-10,Night,Technology,Influencer,100.48,10,471.71,Loyal
+2024-12-08,Evening,Traditional,Email,18.65,2,224.96,New
+2025-04-21,Night,Movement,Social Media,9.73,5,365.94,New
+2025-03-17,Night,Throughout,In-store,78.27,0,287.89,Returning
+2025-04-16,Morning,Growth,In-store,9.07,2,32.46,Returning
+2025-03-29,Morning,Executive,In-store,118.42,10,150.32,New
+2024-11-19,Afternoon,Role,In-store,23.83,3,184.44,New
+2025-02-06,Night,Would,Influencer,38.75,9,196.58,Loyal
+2025-03-25,Night,Exist,In-store,60.52,4,440.27,Loyal
+2025-01-16,Afternoon,Develop,Influencer,145.83,10,146.04,Loyal
+2024-11-30,Evening,Throughout,Social Media,50.24,1,168.47,New
+2024-11-26,Evening,Camera,In-store,77.77,0,66.81,Loyal
+2025-02-27,Evening,Character,In-store,80.69,8,316.81,Returning
+2025-04-27,Evening,Kind,Social Media,57.74,9,244.46,New
+2024-12-07,Evening,Major,Influencer,20.42,2,41.42,Returning
+2025-04-19,Evening,Direction,Email,63.93,8,161.87,New
+2025-02-08,Night,Need,Social Media,44.18,4,377.6,Returning
+2024-11-09,Afternoon,Field,In-store,55.63,8,148.19,New
+2024-11-26,Afternoon,Discuss,In-store,21.99,1,136.58,New
+2025-02-11,Night,National,Social Media,95.11,6,377.49,New
+2024-11-20,Afternoon,Not,Influencer,15.59,7,484.61,New
+2025-04-06,Night,Send,Influencer,21.17,4,479.39,Returning
+2024-12-07,Morning,Central,Email,66.17,7,302.08,New
+2024-11-25,Evening,Team,Social Media,123.49,7,33.89,New
+2025-02-21,Night,Say,Email,104.5,3,79.38,Loyal
+2025-01-20,Afternoon,If,Influencer,77.61,9,171.57,Returning
+2025-03-02,Afternoon,Practice,Email,58.37,8,52.21,Loyal
+2025-04-12,Afternoon,It,Influencer,76.62,7,166.15,Returning
+2025-01-09,Night,Interesting,In-store,148.35,3,471.96,New
+2025-02-24,Afternoon,Type,Influencer,94.3,7,270.57,New
+2024-12-15,Evening,Key,In-store,126.38,9,336.37,New
+2025-04-11,Afternoon,Bit,In-store,138.31,3,382.32,Loyal
+2024-12-19,Afternoon,Audience,Social Media,67.68,4,222.83,Loyal
+2025-04-05,Evening,Glass,In-store,83.4,7,458.49,New
+2025-01-29,Morning,Over,Social Media,147.96,2,88.37,New
+2025-01-27,Afternoon,They,Influencer,56.93,0,51.34,Returning
+2024-11-03,Night,Memory,Influencer,22.25,8,472.21,Returning
+2024-10-31,Evening,Parent,Email,36.5,10,266.31,Loyal
+2025-02-20,Night,Clear,Email,105.33,5,217.04,Loyal
+2024-11-24,Evening,Share,In-store,29.41,10,233.71,Returning
+2025-04-12,Morning,Writer,Email,46.02,6,350.19,Returning
+2024-12-16,Morning,Perhaps,Social Media,11.12,3,332.66,Returning
+2025-04-23,Afternoon,Lawyer,Email,82.76,0,326.29,Returning
+2024-11-07,Night,Red,In-store,148.25,7,228.89,Loyal
+2024-12-06,Morning,Air,In-store,29.85,3,464.6,Loyal
+2025-01-20,Afternoon,Front,Email,83.52,6,91.77,New
+2025-02-19,Evening,Collection,In-store,29.82,5,158.15,Returning
+2025-03-25,Morning,Establish,Social Media,37.55,4,201.61,Loyal
+2025-02-01,Afternoon,Notice,Influencer,40.57,3,308.09,Returning
+2024-12-05,Morning,Point,Influencer,27.87,10,48.56,Loyal
+2024-11-14,Morning,Investment,Email,6.04,9,437.78,New
+2024-12-13,Morning,Main,Social Media,24.04,0,425.68,Returning
+2025-03-07,Afternoon,Guy,Email,78.06,0,190.22,Returning
+2025-01-01,Afternoon,Manager,Email,118.85,7,186.96,New
+2024-12-31,Night,Want,Email,103.52,3,273.91,New
+2024-12-22,Morning,Could,In-store,126.79,5,178.84,Returning
+2025-04-20,Morning,Large,Email,138.88,5,317.51,Returning
+2024-11-07,Afternoon,Available,Influencer,70.42,2,226.07,New
+2025-01-24,Evening,Price,Influencer,76.33,0,185.34,New
+2025-03-25,Morning,Recently,Social Media,103.52,3,210.15,Loyal
+2024-12-23,Night,Change,Influencer,114.69,6,408.62,New
+2024-11-05,Night,Large,In-store,63.27,0,269.58,Returning
+2025-03-01,Night,It,In-store,144.11,7,407.72,Returning
+2024-12-09,Evening,Sometimes,In-store,121.73,0,407.36,Loyal
+2025-01-25,Morning,Market,Email,27.43,3,410.88,Returning
+2024-12-13,Night,Responsibility,Email,128.89,6,427.27,Returning
+2024-12-29,Afternoon,Somebody,Email,66.3,1,41.37,Returning
+2025-01-14,Night,Building,Social Media,29.15,8,387.5,Loyal
+2024-12-27,Evening,Expect,Social Media,57.39,5,430.8,Returning
+2024-12-14,Evening,Term,Email,11.09,5,447.58,New
+2025-03-15,Night,Vote,Email,63.98,5,69.79,Returning
+2025-01-16,Morning,Trouble,Influencer,7.38,2,354.83,Returning
+2025-01-20,Evening,Responsibility,Social Media,46.37,7,72.99,Loyal
+2024-11-26,Night,Especially,Email,129.69,7,295.97,Returning
+2025-03-25,Evening,Doctor,Email,17.95,4,457.03,Returning
+2024-12-29,Morning,Western,In-store,24.55,0,321.65,New
+2025-04-18,Evening,Or,Influencer,86.44,5,325.32,Returning
+2025-02-27,Afternoon,Manager,Influencer,112.26,3,398.93,New
+2025-04-27,Morning,Head,Email,48.2,6,445.71,Loyal
+2025-02-09,Afternoon,Talk,Social Media,10.99,6,107.04,Loyal
+2025-03-04,Morning,Campaign,In-store,65.4,7,374.32,Returning
+2024-12-23,Evening,Fear,Email,112.69,3,479.76,Returning
+2025-04-28,Evening,Stay,Social Media,81,9,80.98,New
+2025-04-21,Night,Sound,In-store,103.24,5,264.99,Returning
+2025-04-19,Evening,Be,Email,30.35,0,325.52,Loyal
+2025-04-02,Morning,Stay,Social Media,108.15,1,337.33,New
+2025-02-02,Afternoon,Coach,In-store,105.91,5,445.9,Returning
+2024-12-23,Night,Region,In-store,76.97,2,260.02,Loyal
+2025-04-21,Night,Check,Social Media,129.91,9,405.27,Loyal
+2024-11-02,Night,Join,In-store,52.39,1,186.96,New
+2025-04-10,Afternoon,Open,In-store,26.86,4,72.89,Loyal
+2024-11-05,Evening,Easy,Social Media,95.98,9,300.17,Returning
+2024-11-08,Night,Throughout,Influencer,75.31,6,489.21,Returning
+2025-02-11,Evening,Subject,Email,39.6,5,354.26,Returning
+2024-12-20,Afternoon,House,Influencer,15.83,4,83.2,Loyal
+2025-04-17,Evening,Organization,In-store,146.29,1,118.93,Returning
+2024-12-08,Evening,Increase,Influencer,130.32,2,89.04,Loyal
+2025-01-10,Morning,War,In-store,60.79,0,293.45,New
+2025-04-22,Afternoon,Blood,Email,139.66,1,26.26,Loyal
+2025-02-08,Night,Rise,Email,85.39,0,355.54,Loyal
+2025-02-13,Morning,Tonight,Email,116.22,2,126.8,New
+2025-04-02,Morning,Determine,In-store,85.09,7,431.3,Returning
+2025-04-06,Afternoon,Person,In-store,124.79,2,313.24,New
+2025-03-05,Afternoon,Who,Social Media,64.3,7,222.34,New
+2024-12-23,Evening,Us,Influencer,145.62,10,213.81,Returning
+2025-03-16,Night,Detail,Email,39,1,353.18,New
+2024-11-14,Evening,Beautiful,Influencer,69.04,8,240.42,Loyal
+2024-12-31,Morning,Fall,Influencer,67,1,301,Loyal
+2025-04-28,Afternoon,Ten,Influencer,89.9,1,367.89,Returning
+2025-01-31,Night,Bad,Influencer,142.99,5,443.96,Returning
+2024-12-24,Afternoon,Care,In-store,35.7,6,342.99,Returning
+2025-01-07,Evening,Usually,Influencer,68.28,3,82.54,Returning
+2025-03-06,Afternoon,Need,Social Media,112.91,1,402.2,Loyal
+2025-01-16,Night,Mention,Influencer,141.7,7,126.46,Loyal
+2024-12-15,Afternoon,Police,Influencer,131.71,3,410.22,Loyal
+2024-11-15,Morning,Really,Influencer,37.81,0,497.67,Loyal
+2025-02-27,Night,Speak,In-store,25.58,0,215.55,Loyal
+2024-12-18,Night,Those,Influencer,122.4,7,297.67,Loyal
+2025-04-27,Morning,Others,Email,20.32,5,245.77,Returning
+2025-01-13,Morning,My,Email,139.28,2,496.19,New
+2024-12-11,Night,Likely,In-store,127.99,1,50.83,New
+2025-04-22,Afternoon,Million,Email,46.06,3,24.93,New
+2025-04-12,Evening,Center,Influencer,56.03,8,89.67,Loyal
+2024-11-01,Night,Table,Influencer,109.73,9,260.97,New
+2024-11-07,Evening,Happy,Email,52.87,3,419.16,New
+2024-11-04,Morning,Professional,Influencer,72.28,0,112.75,Returning
+2024-10-30,Morning,Chair,Influencer,84.43,2,228.82,New
+2024-11-24,Afternoon,Bag,Social Media,98.61,5,22.2,New
+2024-11-12,Evening,Community,Influencer,45.75,6,347.35,New
+2025-04-03,Evening,Assume,Influencer,131.35,3,249.07,Returning
+2025-03-25,Afternoon,Pm,In-store,107.45,2,261.33,New
+2024-12-24,Night,Write,Email,48.86,3,125.69,Loyal
+2025-01-31,Afternoon,Yeah,Social Media,75.22,9,24.03,Loyal
+2024-12-08,Afternoon,Movie,In-store,52.84,5,109.13,Returning
+2024-11-13,Afternoon,Senior,Influencer,14.74,0,136.86,Returning
+2025-03-28,Night,Everything,Influencer,43.96,4,450,Returning
+2025-02-09,Night,Despite,In-store,77.71,5,57,Loyal
+2025-03-17,Evening,Expect,Email,29.56,10,176.65,Returning
+2025-04-08,Night,Growth,In-store,107.67,6,109.22,Returning
+2025-03-07,Evening,Simple,Social Media,107.2,6,101.22,New
+2025-02-05,Afternoon,Individual,Social Media,84.44,8,151.66,Returning
+2025-03-24,Evening,Red,Social Media,16.45,9,405.69,Loyal
+2025-02-02,Night,Approach,In-store,68.71,0,75.16,Returning
+2025-02-24,Evening,Politics,Email,139.36,8,76.34,Loyal
+2025-02-10,Night,Rock,Influencer,28.91,0,209.43,New
+2025-03-25,Evening,Recent,Social Media,131.07,4,236.97,Returning
+2024-12-17,Morning,Final,In-store,73.65,3,421.3,Loyal
+2024-11-13,Evening,Instead,Email,146.85,6,44.48,New
+2025-03-30,Afternoon,From,In-store,109.91,10,358.56,Loyal
+2025-01-26,Afternoon,There,In-store,104.99,1,461.49,Loyal
+2025-01-23,Evening,Art,Social Media,7.7,1,299.84,New
+2025-01-14,Night,Kid,Email,49.72,2,114.41,Loyal
+2025-02-07,Morning,Expert,Influencer,10.09,1,364.65,Loyal
+2025-01-31,Afternoon,Democrat,Email,63.97,5,438.25,New
+2025-02-22,Afternoon,Woman,Influencer,148.1,8,145,New
+2025-04-15,Afternoon,For,Email,49.14,5,308.15,Returning
+2025-04-13,Afternoon,Lose,Email,19.09,2,441.17,Loyal
+2025-04-26,Afternoon,Human,Influencer,85.08,6,59.15,Loyal
+2024-12-11,Evening,Also,Influencer,113.19,0,473.6,New
+2024-12-26,Night,On,Social Media,15.76,2,438.18,New
+2025-04-01,Morning,Within,Social Media,101.13,5,163.35,Returning
+2025-01-13,Evening,Tell,In-store,74.71,10,287.22,New
+2024-12-20,Morning,Commercial,Social Media,132.07,4,28.15,Returning
+2025-01-13,Evening,Happy,Email,5.57,1,450.02,Returning
+2025-02-13,Night,Involve,Email,82.15,4,367.07,Returning
+2025-04-23,Evening,Apply,Influencer,25.04,5,37.44,Returning
+2024-12-20,Night,Water,Email,61.5,10,53.43,New
+2024-11-09,Morning,Politics,Social Media,137.05,8,87.44,New
+2025-02-18,Night,Form,Influencer,133.73,7,84.26,New
+2024-12-20,Evening,Wall,In-store,112.76,0,117.65,New
+2024-11-02,Night,Difficult,In-store,63.86,5,173.08,Returning
+2025-01-03,Afternoon,Election,Influencer,14.29,9,484.78,New
+2025-02-18,Evening,Your,Social Media,81.62,5,262.91,Loyal
+2025-02-28,Morning,Above,Email,129.44,7,464.35,Loyal
+2025-02-13,Afternoon,Chair,Influencer,88.91,5,232.4,Loyal
+2025-04-26,Night,Truth,Social Media,143.63,2,490.89,New
+2024-11-30,Night,Here,Influencer,32.06,9,319.82,New
+2025-04-22,Evening,Boy,In-store,15.88,3,71.34,Returning
+2025-03-23,Night,Final,Influencer,37.75,7,392.96,Returning
+2025-03-29,Afternoon,Four,Email,108.11,3,136.68,Loyal
+2025-02-22,Evening,Improve,Influencer,51.76,5,105.15,New
+2025-01-29,Night,Firm,Social Media,117.23,10,141.5,New
+2024-12-27,Morning,Professional,Social Media,135.18,2,210.74,Returning
+2025-02-25,Morning,Of,In-store,92.81,9,373.65,Loyal
+2025-02-22,Afternoon,Break,Influencer,120.64,1,337.83,New
+2025-01-11,Morning,Rule,Email,88.43,9,129.58,Loyal
+2024-12-12,Morning,Election,Social Media,137.65,8,486.12,New
+2024-11-07,Night,Open,In-store,16.11,4,111.34,Loyal
+2025-01-14,Night,Ability,Influencer,35.44,9,123.08,Returning
+2025-01-03,Night,Someone,Email,131.17,3,93.1,Loyal
+2025-02-20,Morning,Your,Influencer,27.41,8,116.29,New
+2025-03-24,Evening,Necessary,In-store,36.19,3,254.04,Loyal
+2025-01-15,Morning,Back,In-store,104.14,6,152.33,New
+2025-03-23,Evening,Central,Email,26.62,5,492.06,New
+2024-11-12,Night,Research,Email,148.07,6,448.96,Returning
+2025-04-11,Evening,Should,In-store,46.15,2,297.02,Returning
+2025-04-18,Afternoon,Relate,Social Media,55.13,2,282.46,New
+2025-01-04,Night,Let,Influencer,105.13,3,273.67,Loyal
+2025-03-02,Morning,Truth,Social Media,57.68,5,180.29,New
+2025-01-20,Morning,On,Email,63.26,10,184.92,Loyal
+2025-04-11,Night,Color,In-store,88.75,1,61.28,Loyal
+2025-01-18,Afternoon,Board,Influencer,60.56,7,467.41,New
+2025-02-04,Night,Kid,Influencer,76.05,0,171.25,Loyal
+2025-04-25,Morning,Scene,Influencer,118.08,1,256.01,Returning
+2024-11-21,Morning,Identify,Influencer,149.27,3,453.39,Returning
+2025-04-05,Evening,Civil,Influencer,137.32,7,182.94,Loyal
+2025-02-03,Morning,Degree,Email,58.61,10,401.28,New
+2025-04-05,Night,Reality,Email,123.68,6,234.19,Loyal
+2024-11-17,Evening,Candidate,Social Media,18.57,1,249.18,Returning
+2025-03-01,Morning,Those,In-store,69.14,9,391.5,Returning
+2025-03-28,Morning,Main,Influencer,85.1,3,116.58,Loyal
+2025-02-01,Night,Finally,Influencer,43.62,8,117.02,New
+2024-11-22,Afternoon,Eat,In-store,115.57,4,366.48,New
+2025-04-12,Morning,Indeed,Social Media,29.38,3,205.2,Loyal
+2024-12-12,Night,Analysis,Influencer,39.06,8,181.48,Loyal
+2025-03-27,Morning,Conference,Email,5.64,8,83.97,Loyal
+2025-04-18,Evening,Good,In-store,84.73,6,201.84,New
+2025-02-17,Night,Central,In-store,91.16,7,91.44,Loyal
+2025-02-16,Night,Outside,Influencer,30.74,1,378.7,New
+2025-01-13,Night,Animal,Social Media,128.25,7,430.57,Returning
+2024-11-12,Evening,Respond,In-store,149.38,3,96.47,Loyal
+2024-11-16,Afternoon,Parent,Influencer,51.08,2,158.07,Returning
+2024-12-01,Night,Feel,Social Media,51.54,5,393.51,Returning
+2025-04-13,Morning,Account,In-store,9.9,3,304.6,Loyal
+2025-04-06,Morning,Certainly,Influencer,26.76,10,394.03,Returning
+2024-11-26,Evening,Concern,Influencer,148.71,3,337.79,New
+2024-11-24,Morning,Five,Influencer,7.62,1,239.34,Loyal
+2025-02-06,Morning,Partner,Influencer,57.82,4,70.96,Returning
+2024-11-25,Morning,Imagine,In-store,95.44,9,83.47,Returning
+2025-04-13,Afternoon,Start,Email,106.67,6,358.76,New
+2025-02-05,Evening,Deep,In-store,104.28,4,497.81,New
+2025-01-26,Evening,Either,In-store,102.05,7,120.49,Returning
+2025-04-07,Afternoon,West,Influencer,9.64,5,476.95,New
+2025-04-29,Morning,Believe,Email,64.58,0,177.8,New
+2025-01-18,Afternoon,Leave,Email,68.98,5,253.04,Returning
+2025-02-17,Evening,Require,Email,89.79,8,126.36,Returning
+2025-02-14,Afternoon,Sport,Influencer,47.2,0,301.67,Returning
+2024-12-08,Morning,No,In-store,76.4,4,406.54,Loyal
+2025-02-27,Night,Stop,Social Media,146.78,10,35.84,Loyal
+2025-04-14,Afternoon,Everybody,Email,65.39,1,97.23,New
+2024-11-14,Morning,Mention,Social Media,69.8,0,49.19,Loyal
+2025-03-25,Morning,Recent,In-store,66.52,6,172.19,Returning
+2025-02-01,Afternoon,Democrat,In-store,18.21,6,363.82,Loyal
+2025-02-16,Morning,Ahead,Email,133.17,6,96.06,New
+2024-12-10,Afternoon,Question,Influencer,41.78,5,40.84,New
+2024-12-22,Night,Top,In-store,105.2,0,102.7,New
+2024-12-23,Night,Process,Social Media,85.87,3,444.52,Loyal
+2024-11-23,Night,Suggest,Email,73.56,6,355.44,Returning
+2025-02-28,Evening,Part,Email,38.81,6,46.49,Loyal
+2024-12-26,Night,Individual,Email,52.96,9,497.81,New
+2024-12-25,Afternoon,Admit,Email,65.91,3,388.12,Loyal
+2025-01-09,Afternoon,Charge,Email,60.87,7,153.37,Returning
+2024-12-28,Evening,Page,Social Media,72.47,7,464.32,Loyal
+2025-04-22,Evening,At,In-store,14.01,5,387.22,New
+2024-11-21,Night,Education,In-store,137.47,2,447.97,Returning
+2024-12-21,Morning,So,Social Media,49.82,3,285.21,New
+2024-12-26,Evening,Change,Influencer,88.96,8,166.6,Loyal
+2025-03-10,Afternoon,Control,Social Media,149.5,4,287.15,New
+2025-01-08,Morning,Partner,In-store,97.51,1,446,Returning
+2025-02-28,Evening,Simple,Influencer,32.57,6,137.48,New
+2025-03-11,Night,System,Influencer,74.03,10,468.65,Loyal
+2025-03-20,Night,Population,Email,110.85,10,258.59,Loyal
+2025-02-10,Night,Want,In-store,77.15,4,358.4,Loyal
+2025-03-13,Afternoon,Half,Social Media,62.33,6,398.01,Returning
+2025-04-09,Night,Herself,Social Media,46.69,9,60.97,Returning
+2025-01-28,Night,Stock,In-store,33.21,8,209.8,Loyal
+2025-03-30,Afternoon,Camera,In-store,104.44,1,38.28,Returning
+2025-02-24,Morning,Kitchen,Email,146.46,5,37.63,New
+2025-04-30,Morning,Trial,Influencer,5.71,8,298.34,Returning
+2024-12-25,Morning,Reveal,Email,103.49,1,258.01,New
+2025-01-25,Night,Town,Social Media,53.48,0,447.26,New
+2025-02-15,Night,Anyone,Email,57.92,2,160.54,Returning
+2025-01-26,Afternoon,Apply,In-store,104.72,8,399.62,New
+2025-03-16,Night,Girl,Influencer,84.23,5,98.98,New
+2025-03-06,Morning,Foreign,Email,48.8,8,155.75,Loyal
+2025-02-28,Night,So,Email,46.35,6,407.31,Loyal
+2025-04-29,Afternoon,Majority,In-store,87.39,7,25.77,Returning
+2025-01-11,Night,American,Email,57.66,0,56.44,Loyal
+2025-04-04,Afternoon,Magazine,Social Media,77.16,4,111,Loyal
+2024-11-26,Morning,Tonight,Email,51.58,4,471.35,New
+2025-03-14,Night,Never,Social Media,6.15,0,297.97,Loyal
+2025-03-16,Morning,Boy,In-store,136.21,3,344.26,Loyal
+2025-01-28,Night,Dream,Social Media,37.54,6,290.54,Returning
+2025-02-05,Night,Change,Influencer,138.86,7,486.63,Loyal
+2025-01-27,Evening,Star,Social Media,80.27,3,288.93,Loyal
+2025-04-13,Night,Message,Influencer,113.12,4,188.41,Loyal
+2025-04-02,Night,Evening,Email,36.5,0,245.96,New
+2024-12-04,Night,Walk,Email,44.59,10,101.12,Loyal
+2024-11-02,Afternoon,Rest,Influencer,28.94,10,378.35,Returning
+2025-02-27,Evening,Within,Email,103.4,3,496.26,Returning
+2025-01-23,Night,Itself,Influencer,74.29,4,101.76,Returning
+2024-11-23,Morning,Various,In-store,87.29,5,412.43,Returning
+2025-02-24,Evening,Security,Social Media,31.35,2,421.5,New
+2025-01-07,Afternoon,Heavy,Influencer,104.7,4,470.78,Loyal
+2024-12-11,Afternoon,News,Social Media,118.89,0,200.27,Loyal
+2025-01-04,Evening,Fly,Influencer,13.67,2,253.82,New
+2025-03-19,Night,Weight,Influencer,75.9,10,83.24,Loyal
+2024-11-27,Morning,Collection,Social Media,88.79,9,367.54,Loyal
+2024-12-17,Morning,Glass,Email,91.36,2,124.57,Loyal
+2024-10-30,Afternoon,Save,Social Media,52.85,5,62.59,Returning
+2025-02-16,Evening,Scientist,Influencer,101.5,10,415.21,New
+2025-04-17,Morning,Mean,In-store,103.52,2,155.52,Returning
+2025-02-15,Afternoon,Campaign,In-store,95.22,5,112.14,New
+2025-02-14,Evening,Trouble,Email,146.1,4,250.33,New
+2024-11-08,Evening,Town,Influencer,74.6,4,38.27,Returning
+2024-12-01,Evening,Catch,In-store,98.09,10,389.89,Returning
+2025-01-04,Night,Image,In-store,89.58,0,220.24,Returning
+2025-01-04,Morning,Game,In-store,149.03,8,194.72,Loyal
+2024-11-11,Night,Treatment,Social Media,75.67,9,93.22,Loyal
+2024-12-25,Night,Space,Influencer,48.87,5,88.99,Returning
+2025-01-21,Night,Visit,Email,104.65,10,419.58,Returning
+2025-03-01,Evening,Various,In-store,73.76,7,57.14,Returning
+2025-03-20,Afternoon,Prevent,Email,27.17,4,120.75,Loyal
+2025-01-03,Morning,Defense,Email,139.3,7,294.71,Loyal
+2025-04-14,Morning,Unit,Email,91.75,2,266.64,Loyal
+2025-03-30,Morning,Find,In-store,78.27,1,437.3,Loyal
+2025-03-10,Afternoon,Speak,Email,87.24,0,188.27,Loyal
+2025-04-29,Morning,Policy,Influencer,26.47,9,268.51,Returning
+2024-11-17,Afternoon,Future,Influencer,83.54,8,85.21,New
+2025-01-17,Evening,Upon,Email,29.39,5,219.27,Loyal
+2025-04-05,Evening,Place,Email,68.62,7,56.93,Returning
+2025-03-30,Night,Decade,In-store,13.37,1,187.9,New
+2025-04-25,Evening,Apply,In-store,105.83,6,360.59,Loyal
+2025-03-15,Night,Necessary,Social Media,18.18,10,179.51,Loyal
+2025-01-29,Evening,Production,In-store,41.36,6,395.69,New
+2025-03-04,Afternoon,Board,Influencer,10.02,0,383.73,Loyal
+2025-01-25,Night,Treat,Email,55.22,2,22.95,New
+2024-10-31,Evening,Lose,Social Media,48.49,9,407.36,Returning
+2025-01-03,Evening,I,Influencer,25.88,4,256.42,Returning
+2025-01-28,Night,Film,In-store,147.34,0,233.33,Returning
+2025-03-25,Evening,Include,In-store,128.17,8,360.12,New
+2024-11-11,Night,Next,Email,86.72,0,251.32,Returning
+2025-02-17,Morning,Lead,Social Media,51,8,188.08,New
+2025-01-15,Morning,Car,Email,50.94,8,60.56,Returning
+2025-03-01,Night,Democrat,Email,62.49,7,76.42,Returning
+2024-11-25,Morning,Even,In-store,145.03,10,290.55,Returning
+2025-01-28,Night,Audience,In-store,138.23,10,315.62,Loyal
+2025-04-23,Night,Recently,Social Media,104.01,0,56.4,Loyal
+2025-01-21,Morning,Southern,Social Media,38.19,1,251.08,Loyal
+2025-04-06,Afternoon,Have,Social Media,103.45,7,320.96,Returning
+2025-02-15,Evening,These,In-store,70.8,3,233.95,Loyal
+2025-03-15,Morning,Speech,In-store,119.99,6,333.36,New
+2025-01-20,Night,Church,Influencer,114.49,2,168.29,Returning
+2024-12-29,Afternoon,Player,In-store,76.92,4,58.32,Returning
+2024-11-29,Evening,Impact,In-store,75.92,5,352.54,Loyal
+2025-01-24,Afternoon,Perform,Social Media,127.56,7,320.09,Returning
+2025-01-20,Evening,Past,Influencer,60.24,7,461.32,New
+2024-12-29,Evening,Participant,Social Media,50.1,5,46.31,New
+2025-04-20,Morning,Beautiful,Email,115.58,10,495.85,Returning
+2024-11-11,Evening,Adult,Influencer,115.37,3,139.08,New
+2024-11-10,Afternoon,Sometimes,Social Media,64.91,4,319.48,Returning
+2025-03-09,Morning,Keep,Influencer,59.6,10,77.57,Loyal
+2025-04-18,Evening,Contain,In-store,50.15,2,124.59,Returning
+2025-02-09,Afternoon,Despite,Social Media,66.46,1,226.17,New
+2025-02-10,Morning,Project,Influencer,121.53,2,101.78,New
+2024-12-16,Evening,Prepare,Influencer,23.91,7,269.73,Loyal
+2025-02-03,Morning,Century,Influencer,86.56,2,394.9,Loyal
+2025-01-03,Evening,Republican,Influencer,55.81,5,183.37,New
+2025-01-19,Afternoon,Our,Influencer,115.25,9,414.38,New
+2025-03-21,Night,Life,Email,51,0,54.7,Returning
+2024-12-01,Night,Enter,Email,73.82,9,481.48,Loyal
+2025-02-13,Night,Court,In-store,8.58,4,376.75,New
+2025-04-29,Night,Market,In-store,60.7,1,155.42,New
+2025-04-13,Afternoon,Order,Social Media,30.78,5,148.11,New
+2025-02-02,Night,Miss,Social Media,94.18,4,32.13,New
+2025-01-22,Evening,Section,Email,134.44,7,75.51,Returning
+2025-01-28,Morning,See,In-store,57.88,1,351.62,Loyal
+2025-04-17,Morning,Enter,In-store,99.54,3,200.54,New
+2025-01-31,Morning,Recently,Email,81.42,9,26.76,New
+2025-03-05,Afternoon,Space,In-store,47.34,1,103.56,Loyal
+2025-03-04,Afternoon,Enough,Influencer,48.41,3,237.76,Loyal
+2025-04-20,Night,Really,In-store,103.46,1,116.51,Loyal
+2025-01-22,Night,Scientist,Social Media,23.63,9,432.63,Returning
+2025-04-14,Evening,Consumer,In-store,147.9,9,124.49,New
+2024-12-30,Morning,Worry,Social Media,120.41,3,130.7,Loyal
+2025-02-28,Evening,Society,In-store,34.05,10,441.69,New
+2025-04-27,Afternoon,Force,Social Media,142.21,1,90.89,Returning
+2025-02-27,Evening,Organization,Email,129.08,3,82.94,Loyal
+2024-12-28,Morning,Garden,Influencer,116.35,8,381.22,Returning
+2025-01-10,Night,Add,Social Media,44.89,10,178.83,New
+2024-11-18,Afternoon,Low,Email,16.4,3,499.67,Returning
+2024-12-14,Evening,Beyond,Social Media,142.87,6,103.79,Returning
+2024-12-17,Morning,Small,Email,72.97,3,306.11,New
+2025-04-02,Night,During,In-store,115.24,2,371.75,New
+2025-02-06,Night,School,Email,92.5,10,52.71,Returning
+2025-04-23,Afternoon,Ball,Social Media,67.3,6,481.51,Loyal
+2025-02-13,Morning,Piece,Influencer,132.06,2,437.98,Loyal
+2025-04-08,Morning,Detail,Influencer,75.65,7,61.75,New
+2025-03-13,Evening,Audience,Social Media,118.81,4,357.7,New
+2025-04-20,Night,Religious,Influencer,147.3,0,113.43,New
+2025-02-05,Night,Share,In-store,142.42,2,309.85,New
+2025-02-03,Morning,About,In-store,130.73,8,453.36,Returning
+2025-03-03,Morning,Left,Influencer,25.74,2,491.25,Returning
+2025-03-26,Morning,Individual,In-store,46.93,2,427.92,Returning
+2025-01-31,Evening,Bill,Email,9.56,6,324.64,New
+2025-04-23,Morning,Three,In-store,106.72,7,98.69,New
+2024-12-03,Afternoon,Hope,In-store,122,4,286.03,New
+2024-11-16,Night,Two,Influencer,102.32,7,405.11,New
+2024-11-26,Afternoon,Reason,Social Media,50.65,7,410.58,New
+2025-04-02,Afternoon,Travel,Email,118.88,10,172.68,New
+2025-03-18,Night,Actually,Email,125.2,1,455.58,Loyal
+2024-11-12,Afternoon,View,Influencer,72.25,4,331.2,New
+2025-03-24,Night,Number,Email,64.48,5,107.54,New
+2025-04-12,Afternoon,Against,In-store,95.76,5,186.47,New
+2025-02-13,Night,Administration,Influencer,47.35,7,461.95,New
+2024-12-09,Morning,Start,Social Media,92.09,1,297.45,Returning
+2025-04-03,Afternoon,According,Social Media,80.54,8,186.52,New
+2025-02-22,Night,Such,Influencer,70.09,10,358.42,Returning
+2025-01-03,Evening,Nice,Social Media,22.65,8,256.07,Returning
+2025-03-27,Night,A,Influencer,9.85,6,136.14,New
+2025-03-20,Night,Professional,Influencer,83.25,3,333.12,New
+2025-04-04,Night,Opportunity,Influencer,68.3,6,344.64,Loyal
+2025-03-03,Morning,Instead,Social Media,79.34,2,125.94,Returning
+2025-01-28,Morning,Cause,Social Media,48.37,0,300.28,Returning
+2025-02-17,Night,Better,Social Media,43.63,8,405.16,Loyal
+2025-01-06,Evening,Arm,Email,96.37,8,391.02,New
+2025-04-05,Evening,Enough,Email,31.87,1,444.48,Loyal
+2025-01-13,Morning,Middle,In-store,84.26,6,300,Loyal
+2025-01-26,Morning,Charge,In-store,12.38,9,42.57,Returning
+2025-04-28,Morning,Participant,Influencer,96.96,5,210.71,Returning
+2024-12-05,Afternoon,Shake,In-store,23.78,0,46.55,Returning
+2025-01-17,Evening,Single,Social Media,102.18,10,142.58,Returning
+2025-04-16,Afternoon,Sense,Social Media,38.81,2,20.11,New
+2025-01-25,Morning,Must,Social Media,105.99,1,220.77,New
+2025-02-21,Morning,Community,Social Media,148,5,114.53,Returning
+2025-01-05,Night,Easy,Influencer,117.81,6,245.02,Loyal
+2024-11-02,Morning,Drop,In-store,47.12,4,154.64,Loyal
+2024-11-04,Night,Bar,Email,76.92,1,398.67,Loyal
+2024-12-20,Evening,Risk,In-store,42.64,6,157.21,New
+2025-03-12,Morning,Young,Email,51.59,5,283.11,Loyal
+2025-02-09,Afternoon,Rather,Social Media,110.12,0,309.99,New
+2024-12-12,Night,Fish,In-store,88.9,10,357.13,Loyal
+2025-03-23,Night,Loss,Influencer,136.59,4,49.09,Returning
+2024-12-25,Morning,Apply,Email,61.31,2,20.01,Returning
+2025-04-26,Afternoon,Product,Influencer,32.79,5,472.1,New
+2025-02-10,Afternoon,Threat,Email,5.92,3,477.53,New
+2025-03-23,Night,Into,Influencer,55.7,4,242.04,Loyal
+2025-03-17,Evening,Million,Email,62.97,0,106.1,Returning
+2025-03-28,Evening,Tonight,Social Media,111.99,7,366.14,Loyal
+2025-04-23,Morning,Project,Email,110.85,8,188.45,New
+2024-12-11,Morning,Hair,In-store,135.63,0,141.45,Returning
+2025-01-06,Afternoon,True,Email,106.36,9,379.33,Returning
+2025-03-14,Night,Must,Social Media,99.3,5,420.8,Returning
+2025-01-31,Morning,Open,In-store,40.25,0,317.11,Returning
+2025-02-26,Night,Soon,Influencer,86.74,5,404.63,Loyal
+2024-12-17,Afternoon,Since,Social Media,143.38,9,316.29,Loyal
+2025-01-03,Night,Agree,Social Media,75.11,3,473.51,New
+2025-03-27,Night,Employee,In-store,48.47,5,167.99,Loyal
+2025-04-29,Afternoon,Enjoy,Social Media,145.19,2,296.06,Returning
+2025-04-17,Afternoon,These,Influencer,54.83,1,251.28,Loyal
+2025-02-02,Night,Measure,Social Media,138.58,8,441.61,New
+2025-02-26,Afternoon,Item,Social Media,81.86,0,285.98,Returning
+2025-01-17,Afternoon,In,Social Media,25.58,1,343.72,New
+2024-12-28,Night,Suddenly,Social Media,31.53,9,231.49,Returning
+2025-02-28,Morning,Establish,Influencer,49.97,7,300.07,Returning
+2025-03-21,Evening,Recent,Influencer,13.79,3,309.83,Loyal
+2025-02-22,Evening,Dinner,Email,127.29,0,139.39,Loyal
+2025-04-08,Evening,Mission,Influencer,16.35,6,382.22,Loyal
+2025-03-03,Afternoon,Onto,Influencer,106.1,6,178.32,Loyal
+2025-03-05,Morning,Hair,Social Media,92.7,7,403.52,Loyal
+2025-01-30,Evening,Son,Influencer,68.68,0,116.26,Loyal
+2025-01-19,Afternoon,Range,Email,148.16,10,222.39,Returning
+2025-03-01,Evening,Trouble,Social Media,143.22,10,225.35,Returning
+2024-12-05,Night,Book,Influencer,136.25,0,113.25,Loyal
+2025-01-25,Night,Development,In-store,109.56,2,47.2,Loyal
+2025-02-23,Morning,From,Email,89.01,9,98.84,Returning
+2024-10-31,Evening,Show,In-store,9.66,2,31.24,Returning
+2024-11-17,Morning,Indicate,Social Media,73.97,7,432.68,Returning
+2024-11-21,Afternoon,Country,In-store,35.65,7,317.36,Returning
+2025-04-29,Evening,Rich,Email,114.6,4,346.7,Loyal
+2024-12-05,Afternoon,Budget,Social Media,63.74,1,80.73,New
+2025-02-08,Afternoon,Religious,Social Media,26.62,4,133.57,Returning
+2024-11-06,Evening,Range,Social Media,31.91,9,65.41,New
+2025-02-25,Evening,Since,Influencer,81.1,2,490.02,Returning
+2024-11-19,Afternoon,Appear,Social Media,89.77,9,100.8,Returning
+2025-04-06,Night,Into,Email,104.56,0,434.46,Returning
+2025-01-16,Night,Hand,In-store,86.4,7,236.39,Loyal
+2025-04-26,Morning,War,Social Media,88.64,8,91.66,Returning
+2025-03-01,Afternoon,Run,In-store,130.53,4,451.27,New
+2024-11-12,Night,Mouth,In-store,124.51,10,92.08,New
+2024-12-31,Afternoon,Option,Social Media,34.69,5,441.55,New
+2025-01-28,Night,Win,Influencer,52.99,8,166.8,Returning
+2024-11-27,Morning,Left,In-store,115.8,6,267.94,Returning
+2025-03-22,Evening,He,Influencer,25.15,10,213.93,New
+2025-03-03,Afternoon,Line,In-store,38.56,2,173.62,Loyal
+2024-11-24,Night,Fight,Influencer,94.69,6,264.45,Returning
+2025-02-05,Evening,During,Email,149.89,8,477.33,Returning
+2024-11-27,Morning,Boy,Influencer,49.97,7,465.41,Loyal
+2024-12-05,Afternoon,Sound,Email,19.22,4,350.2,Loyal
+2025-01-09,Evening,Whom,Influencer,34.09,6,279.06,New
+2025-03-16,Morning,Control,Social Media,53.61,4,251.5,Returning
+2024-11-23,Evening,Can,Influencer,144.6,1,386.86,Loyal
+2025-04-09,Morning,Trade,Email,51.09,3,23.34,New
+2025-04-14,Morning,School,Email,79.35,2,347.12,New
+2024-12-16,Morning,Several,Email,50.76,2,482,Returning
+2024-11-26,Afternoon,Offer,In-store,7.77,5,329.23,New
+2024-12-31,Afternoon,Million,Social Media,120.26,2,310.45,Returning
+2025-01-31,Evening,Foreign,Email,42.12,3,410.71,Loyal
+2025-01-31,Night,My,Influencer,41.7,7,459.26,Returning
+2025-04-26,Morning,It,In-store,29.01,2,283.39,Returning
+2024-12-21,Morning,Treat,Email,77.04,1,242.22,New
+2024-12-19,Afternoon,Authority,Email,55.62,5,345.74,Returning
+2025-02-24,Afternoon,Well,Email,133.55,3,237.9,Returning
+2024-11-24,Night,Over,Influencer,99.15,9,423.3,New
+2025-03-22,Morning,Site,In-store,57.36,8,127.1,New
+2025-04-03,Evening,Better,Email,49.17,5,484.42,New
+2024-12-23,Afternoon,Process,Social Media,52.22,4,147.88,Returning
+2025-04-02,Evening,Effort,Influencer,115.75,0,108.87,Loyal
+2024-11-01,Evening,Chance,Email,95.32,10,41.16,Loyal
+2025-04-04,Night,Thing,Email,5.86,10,101.54,Returning
+2025-04-29,Evening,Teach,Email,8.74,4,164,Loyal
+2025-04-06,Morning,Idea,Social Media,120.51,9,279.68,New
+2024-12-20,Evening,Detail,Social Media,142.37,7,335.49,Returning
+2025-02-02,Night,Direction,Email,100.28,3,54.54,Returning
+2024-11-03,Night,Direction,Influencer,59.81,2,68.37,Loyal
+2025-02-09,Night,Hold,Influencer,113.51,1,199.9,Returning
+2025-02-24,Afternoon,Its,Influencer,132.86,8,204.73,Returning
+2024-12-25,Evening,Bag,Influencer,27.51,4,333.52,Loyal
+2024-11-25,Afternoon,Light,Email,9.46,9,451.17,Returning
+2025-02-16,Morning,Already,In-store,49.2,9,198.57,Returning
+2025-02-03,Evening,Sea,In-store,108.39,0,94.9,Loyal
+2025-04-26,Morning,Situation,In-store,15.12,5,397.08,Loyal
+2025-03-18,Evening,Well,Email,58.29,3,40.77,Returning
+2025-04-26,Evening,Base,In-store,113.56,9,217.17,Loyal
+2024-11-26,Afternoon,Fund,In-store,140.2,6,95.51,New
+2024-11-06,Night,Finish,Influencer,119.85,10,336.16,Returning
+2024-11-12,Morning,Yet,Social Media,30.99,9,157.12,Returning
+2025-02-05,Night,Prove,Email,20.78,9,440.7,Loyal
+2025-01-12,Night,Perhaps,Email,99.14,1,216.99,Returning
+2025-03-28,Afternoon,Soldier,Influencer,88.54,6,291.64,Loyal
+2024-12-29,Night,Carry,In-store,132,1,330.04,New
+2025-01-27,Morning,Wife,In-store,59.59,9,430.69,Returning
+2025-01-22,Morning,Feel,In-store,55.44,1,172.04,Returning
+2025-04-27,Night,Listen,In-store,60.52,4,44.05,New
+2024-11-06,Morning,Key,Influencer,12.12,3,108.22,Loyal
+2025-01-18,Night,State,Email,112.03,3,310.96,Loyal
+2025-04-23,Night,Strategy,Email,64.2,4,143.99,Loyal
+2025-01-03,Morning,Ever,In-store,46.44,7,84.37,Returning
+2024-12-09,Evening,Stay,In-store,17.58,3,161.66,New
+2025-02-16,Afternoon,Fight,Influencer,144.92,2,290.07,Loyal
+2024-11-19,Night,Strong,In-store,114.81,7,248.79,New
+2024-11-18,Evening,Happen,Influencer,72.53,8,423.11,Loyal
+2025-03-05,Night,Past,Influencer,148.8,7,194.2,Returning
+2025-02-22,Morning,Raise,Social Media,100.91,9,471.91,Loyal
+2025-01-21,Morning,Left,Social Media,136.3,8,371.81,Returning
+2025-01-07,Afternoon,To,Influencer,25.59,8,194.83,Loyal
+2024-12-04,Evening,Policy,Influencer,34.2,3,276.51,Returning
+2025-04-17,Night,Reflect,Email,7.16,9,139.49,Returning
+2025-03-18,Evening,Learn,In-store,49.42,7,482.05,Returning
+2025-01-18,Evening,Task,Email,40.54,8,38.25,New
+2025-01-11,Afternoon,Late,In-store,66.35,6,367.72,New
+2025-02-10,Night,Own,In-store,66.79,1,326.74,Loyal
+2024-11-22,Night,Election,Email,68.39,3,209.12,Returning
+2025-02-05,Night,Huge,Influencer,149.37,6,440.98,New
+2025-03-18,Night,Sense,Email,50.04,6,131.59,Loyal
+2024-11-12,Afternoon,Design,Social Media,84.16,4,482.58,Loyal
+2024-12-20,Morning,Mission,Influencer,66.33,1,450.21,Loyal
+2025-02-10,Evening,Whatever,Influencer,58.41,2,441.62,Returning
+2025-02-25,Afternoon,Another,Influencer,131.61,2,96.78,New
+2024-12-29,Morning,Bill,In-store,71.17,6,151.66,New
+2025-03-15,Evening,In,Influencer,131.76,5,169.31,Loyal
+2025-01-26,Afternoon,Drug,Email,144.71,7,248.95,Loyal
+2025-01-10,Night,Model,Social Media,66.66,8,51.38,Loyal
+2025-01-02,Night,What,Social Media,43.66,5,85.02,Returning
+2024-11-04,Night,Color,Social Media,128.91,8,355.94,Returning
+2025-02-01,Night,Process,Email,48.17,3,263.76,New
+2025-01-19,Afternoon,Position,In-store,114.6,9,70.31,Loyal
+2024-12-30,Afternoon,Across,In-store,108.65,10,146.49,Returning
+2024-11-21,Night,Loss,Email,50.41,6,140.3,Returning
+2025-01-11,Morning,Smile,Social Media,6.37,2,471.41,Loyal
+2025-01-03,Afternoon,Anything,Social Media,131.11,10,318.96,Returning
+2024-11-29,Evening,Base,In-store,108.64,1,285.3,New
+2024-11-24,Evening,Seat,Influencer,68.71,7,33.97,Loyal
+2025-03-06,Morning,Pick,In-store,39.51,10,90.15,New
+2024-12-30,Morning,Between,In-store,132.59,4,246.72,Loyal
+2025-03-17,Morning,Bring,Social Media,48.73,2,157.32,Returning
+2025-03-09,Evening,Necessary,Influencer,111.54,0,378.43,Loyal
+2025-04-03,Night,Radio,In-store,11.92,5,108.33,New
+2025-03-09,Night,Trade,Social Media,126.97,9,365.65,Returning
+2025-02-10,Morning,New,Social Media,110.91,4,257.87,Returning
+2025-01-16,Evening,Actually,Social Media,69.85,10,326.81,Returning
+2024-11-03,Evening,South,Email,41.98,5,409.21,Loyal
+2024-11-05,Morning,Market,Social Media,45.71,8,265.2,New
+2025-01-28,Evening,West,In-store,148.34,10,215.43,Loyal
+2024-12-01,Morning,Hair,Influencer,22.84,10,489.45,Returning
+2025-02-02,Evening,Send,Influencer,129.78,8,295.34,Loyal
+2025-01-08,Morning,Impact,In-store,13.31,7,434.64,Loyal
+2025-04-07,Night,Weight,Email,28.05,3,85.3,Returning
+2024-11-28,Morning,Glass,Social Media,28.31,7,319.35,New
+2024-11-01,Afternoon,Pay,In-store,85.21,6,152.01,New
+2024-12-30,Morning,Receive,Influencer,94.44,4,359.48,New
+2025-01-11,Morning,School,Social Media,22.71,2,400.13,Returning
+2024-12-21,Night,Talk,Influencer,32.87,7,256.57,Returning
+2025-04-28,Morning,Without,Email,129.55,7,431.52,New
+2025-03-22,Morning,Than,Social Media,110.34,0,113.69,New
+2025-02-18,Evening,Cell,Influencer,92.79,3,456.33,Loyal
+2025-04-28,Evening,Glass,Email,42.77,7,66.26,New
+2025-01-20,Afternoon,Happen,In-store,43.74,4,96.32,Returning
+2024-11-10,Afternoon,Discussion,Social Media,117.53,6,445.64,New
+2025-01-24,Evening,Rise,In-store,74.65,8,338.27,Returning
+2024-12-25,Night,Water,Influencer,136.31,6,128.04,New
+2024-11-03,Afternoon,Finish,Email,22.96,3,196.93,New
+2024-12-27,Morning,Write,In-store,68.79,5,155.43,New
+2025-02-27,Afternoon,Whom,Influencer,139.45,5,46.56,New
+2025-01-23,Night,American,Email,85.29,10,225.53,Returning
+2025-02-22,Afternoon,Fund,Email,145.01,2,54.14,Loyal
+2025-03-16,Afternoon,Six,In-store,56.7,8,245.67,Returning
+2024-11-16,Afternoon,Front,Influencer,22.55,7,408.18,New
+2025-04-16,Afternoon,Recent,Influencer,29.55,6,478.68,Loyal
+2025-04-16,Morning,Carry,In-store,45.34,6,148.51,Loyal
+2024-12-30,Morning,Find,Social Media,134.59,9,392.82,New
+2024-12-01,Evening,Short,Email,96.34,4,151.09,New
+2025-01-20,Evening,Campaign,Influencer,24.59,5,55.61,Returning
+2025-04-22,Afternoon,Party,Email,141.27,3,26.73,Returning
+2025-01-11,Afternoon,Husband,Social Media,48.55,3,188.34,Returning
+2024-12-31,Morning,Up,In-store,131.32,7,126.28,Returning
+2025-02-24,Afternoon,Cut,Email,94.04,7,296.81,New
+2025-02-17,Afternoon,Why,Influencer,125.86,0,362.6,Returning
+2025-02-05,Morning,Claim,Influencer,70.02,10,303.51,Loyal
+2025-01-21,Afternoon,Radio,Social Media,25.56,9,264.1,New
+2024-12-19,Evening,Change,Email,70.3,2,273.89,Loyal
+2024-11-02,Morning,Security,Email,94.89,10,41.55,New
+2025-04-25,Morning,Seem,Email,76.13,0,472.52,Returning
+2024-11-28,Morning,Conference,In-store,21.18,8,143.56,Returning
+2024-12-09,Night,Threat,Social Media,123.52,7,338.05,Loyal
+2025-03-07,Night,Shoulder,Social Media,93.99,9,493.98,Returning
+2025-03-17,Afternoon,Finish,Email,134.52,0,209.57,Returning
+2024-11-05,Night,Lay,Email,15.71,5,213.78,Loyal
+2025-04-06,Evening,Watch,Influencer,65.84,2,337.66,Returning
+2025-03-07,Night,Reality,Social Media,96.37,2,417.64,Loyal
+2025-01-26,Afternoon,Employee,Social Media,96.3,7,497.05,New
+2025-01-16,Night,Time,In-store,26.34,9,400.01,New
+2025-03-24,Night,Line,Email,111.73,7,100.88,New
+2025-02-21,Morning,Along,Email,97.82,7,417.28,Returning
+2024-12-03,Afternoon,Food,Email,105.13,6,89.86,Returning
+2025-02-19,Night,Myself,Email,134.6,3,126.88,Returning
+2024-12-14,Evening,Rock,In-store,83.15,7,162.65,Returning
+2024-12-19,Morning,Meeting,Social Media,84.29,0,135.91,Returning
+2025-04-25,Afternoon,Office,Email,13.23,8,382.85,Loyal
+2025-02-04,Evening,Film,Email,100.55,6,77.7,New
+2024-12-13,Afternoon,Under,Influencer,38.81,3,411.25,Loyal
+2024-11-10,Afternoon,Both,In-store,141.96,9,355.92,Returning
+2025-04-17,Evening,Field,Influencer,83.15,5,65.57,New
+2025-04-08,Afternoon,These,Social Media,26.49,0,134.39,New
+2025-04-24,Night,Court,In-store,96.05,0,377.39,Loyal
+2025-02-25,Evening,Range,Email,103.26,6,410.94,Loyal
+2025-02-03,Night,Outside,Email,108.6,6,124.06,Returning
+2025-03-13,Night,State,Influencer,74.94,10,330.72,Returning
+2024-12-18,Morning,Accept,Email,113.8,3,266.15,Returning
+2024-11-17,Afternoon,Others,In-store,124.83,0,480.05,Returning
+2025-03-20,Morning,Of,Influencer,116.96,9,409.62,Loyal
+2025-04-09,Morning,For,Email,117.96,1,234.81,Loyal
+2025-03-15,Evening,Safe,Social Media,14.55,2,207.33,Loyal
+2025-03-10,Afternoon,Bank,Influencer,48.53,0,165.09,New
+2025-02-24,Afternoon,Sometimes,Social Media,30.13,3,325.69,New
+2024-11-06,Afternoon,Surface,Influencer,62.58,0,464.41,New
+2025-02-27,Morning,Shake,Email,115.81,0,357.82,New
+2025-03-19,Evening,Language,Social Media,51.39,8,206.98,New
+2025-03-04,Night,System,In-store,122.73,7,22.39,Returning
+2025-03-11,Morning,Here,Email,32.09,8,494.43,New
+2024-12-26,Night,Audience,Influencer,84.67,7,146.45,Loyal
+2025-03-07,Morning,Issue,Influencer,76.56,6,81.92,Returning
+2025-03-18,Afternoon,Woman,Email,137.62,2,330.26,Loyal
+2025-03-04,Morning,Know,Email,60.48,7,427.76,New
+2025-04-22,Night,Them,Influencer,129.84,3,234.94,Returning
+2025-02-05,Morning,Help,In-store,149.04,2,100.22,Loyal
+2024-12-13,Morning,Allow,Influencer,139.05,1,305.75,Loyal
+2024-12-21,Night,Raise,Email,144.81,3,223.67,Loyal
+2025-02-12,Afternoon,Radio,In-store,129.83,4,479.3,Loyal
+2024-12-03,Evening,Shake,Social Media,36.98,4,123.88,Returning
+2024-12-12,Night,Ground,Email,86.15,3,25.31,Returning
+2025-03-27,Evening,List,Influencer,48.08,0,65.3,Returning
+2025-04-17,Morning,Find,In-store,111.2,2,182.72,New
+2025-02-10,Night,Address,Influencer,24.86,0,205.88,Returning
+2025-03-29,Evening,Only,Email,83.92,0,112.78,New
+2024-12-20,Evening,Investment,Influencer,126.09,2,40.92,New
+2024-11-29,Morning,Simply,Influencer,61.46,5,260.47,Returning
+2024-11-19,Afternoon,Article,Influencer,6.76,6,269.29,New
+2025-03-25,Afternoon,Better,Social Media,93.1,8,349.93,Loyal
+2025-02-20,Afternoon,Sometimes,Influencer,109.71,8,468.66,New
+2024-12-06,Evening,Understand,In-store,132.31,5,149.5,Returning
+2024-11-16,Evening,Floor,Social Media,8.72,10,250.98,New
+2025-02-02,Afternoon,Institution,Influencer,27.28,4,287.09,New
+2025-04-18,Morning,Physical,Social Media,108.01,2,34.33,Returning
+2024-11-16,Afternoon,About,Email,44.91,10,271.63,New
+2025-01-01,Night,Sign,Social Media,126.5,2,48.54,Returning
+2024-12-05,Night,Own,Social Media,74.06,5,98.2,Loyal
+2024-11-27,Morning,Imagine,Email,122.56,5,271.38,New
+2025-04-23,Evening,Event,Influencer,79.84,7,355.35,Loyal
+2025-01-19,Evening,Appear,Email,141.94,2,400.96,Loyal
+2025-01-13,Morning,Indicate,In-store,77,2,363.77,New
+2025-03-12,Afternoon,Half,Email,103.42,8,360.69,Loyal
+2025-02-12,Morning,Head,In-store,30.53,3,213.92,Returning
+2024-12-08,Night,Use,Email,116.46,10,22.07,Returning
+2024-12-05,Afternoon,Especially,Social Media,75.22,1,294.93,New
+2024-11-14,Evening,Dream,Email,66.36,6,482.79,Loyal
+2025-02-21,Evening,Even,Influencer,24.47,8,205.37,Returning
+2025-02-28,Morning,Gun,In-store,139.6,8,107.49,New
+2025-02-07,Afternoon,Project,Social Media,85.73,9,423.19,Returning
+2024-11-30,Afternoon,Effect,Social Media,61.31,6,255.86,Returning
+2025-03-22,Evening,New,Email,124.99,4,360.7,Returning
+2025-04-04,Evening,Force,Influencer,102.28,2,105.98,Loyal
+2025-01-23,Afternoon,Cause,In-store,131.95,10,446.57,Returning
+2025-03-16,Morning,Issue,Social Media,107.23,10,202.58,Returning
+2025-01-14,Night,Task,Email,125.39,0,43.67,Loyal
+2024-11-13,Night,Treatment,Influencer,46.94,4,494.75,Loyal
+2025-02-20,Afternoon,Cut,Email,99,4,337.62,Returning
+2025-03-19,Afternoon,Every,Influencer,138.93,9,362.62,New
+2025-04-05,Morning,Avoid,Email,127.23,4,120.23,Loyal
+2025-03-28,Afternoon,Travel,Social Media,73.83,2,465.31,New
+2025-01-20,Night,Trip,Influencer,80.4,2,246.31,New
+2024-11-15,Afternoon,Protect,Social Media,132.15,0,114.32,Returning
+2025-01-01,Morning,Money,Email,125.54,10,64.98,Returning
+2025-02-09,Evening,Should,In-store,71.83,2,134.19,Loyal
+2025-03-22,Night,History,Social Media,112.19,2,233.12,New
+2025-03-27,Morning,During,Social Media,29.34,1,292.22,New
+2024-12-08,Morning,Product,Influencer,15.68,3,63.91,New
+2025-04-22,Morning,War,Social Media,9.67,8,432.1,Returning
+2025-03-09,Evening,Dream,Social Media,139.37,6,298.8,Returning
+2025-04-07,Morning,Experience,Influencer,71.97,3,32.19,Loyal
+2025-02-19,Afternoon,Radio,Email,103.67,10,128.06,New
+2024-11-27,Night,Certainly,Email,81.72,6,35.72,New
+2025-04-27,Evening,Instead,Influencer,26.16,1,405.38,Loyal
+2025-02-27,Morning,Surface,Email,144.2,1,280.69,New
+2025-04-25,Afternoon,Happen,Social Media,108.82,0,95.37,Returning
+2024-12-18,Morning,Why,In-store,119.71,6,209.72,New
+2025-02-28,Night,Current,Influencer,149.1,2,64.95,New
+2024-12-21,Afternoon,Suddenly,Social Media,31.54,0,327.87,Loyal
+2025-02-14,Evening,Short,Influencer,60.32,10,227.54,New
+2025-03-04,Evening,Someone,Influencer,8.8,7,105.67,New
+2025-01-10,Morning,Join,Influencer,106.35,2,336.64,Loyal
+2025-03-06,Afternoon,Old,Social Media,61.21,8,265.74,Returning
+2025-02-13,Morning,Source,Email,122.85,6,227.67,Returning
+2025-02-21,Afternoon,South,In-store,10.4,7,67.87,New
+2025-03-27,Morning,Deal,In-store,60.16,3,158.71,Returning
+2024-11-26,Night,Catch,Social Media,127.13,5,266.49,New
+2024-11-28,Afternoon,Effort,Influencer,65.19,8,27.81,New
+2024-12-07,Afternoon,Thing,Email,21.87,2,281.28,Loyal
+2025-03-31,Morning,Address,Email,106.42,0,409.23,Loyal
+2024-12-08,Evening,Whether,Influencer,82.34,3,445.64,Loyal
+2025-02-12,Afternoon,Computer,Social Media,127.27,10,128.37,New
+2025-02-05,Evening,Actually,Email,35.96,8,181.73,New
+2025-03-20,Morning,Determine,In-store,30.01,7,290.76,Returning
+2025-02-24,Evening,Here,Social Media,112.03,9,72.23,New
+2025-02-03,Evening,Land,Email,58.42,7,389.44,Loyal
+2025-04-05,Evening,Measure,Social Media,134.03,2,387.28,Returning
+2025-04-02,Morning,Challenge,In-store,123.78,1,320.67,Returning
+2024-12-09,Evening,Yard,Email,143.04,7,117.21,Returning
+2025-01-28,Afternoon,Performance,Social Media,137.21,5,473.09,New
+2024-10-30,Evening,Reduce,Email,77.48,3,395.09,Returning
+2025-04-16,Afternoon,Product,Email,84.56,5,100.04,New
+2025-03-18,Evening,Garden,Social Media,104.45,10,89.5,Loyal
+2024-12-03,Morning,Home,Social Media,146.58,7,262.89,Returning
+2024-12-23,Afternoon,Building,Influencer,69.61,2,216.72,Returning
+2024-12-30,Night,Myself,In-store,117.34,10,202.02,Loyal
+2024-12-08,Night,Bed,In-store,40.24,3,95.35,Returning
+2025-03-27,Morning,Gas,In-store,130.15,9,347.26,Returning
+2025-03-18,Morning,Not,Email,132.29,0,431.51,Loyal
+2025-01-07,Afternoon,Ask,Social Media,118.26,6,270.61,New
+2025-01-01,Morning,Them,Email,84.5,0,355.74,Returning
+2024-12-18,Evening,Go,Social Media,32.67,2,173.69,New
+2024-11-11,Morning,Serve,In-store,91.58,4,146.6,Returning
+2025-04-24,Night,Shoulder,Email,148.39,6,35.62,Returning
+2025-02-09,Evening,Pull,Influencer,139.19,5,90.53,Loyal
+2024-10-31,Afternoon,Couple,Social Media,95.75,1,218.63,Loyal
+2025-02-26,Evening,Indicate,Email,89.54,9,214.28,Returning
+2024-12-01,Afternoon,Matter,Email,20.59,1,387.77,Loyal
+2025-03-05,Afternoon,Begin,Influencer,98.8,4,70.61,New
+2025-04-18,Afternoon,Five,Social Media,56.18,5,65.46,Loyal
+2024-11-06,Afternoon,Bad,Email,93.95,0,272.34,New
+2025-01-28,Evening,Trouble,Email,33.62,6,346.13,Loyal
+2025-01-08,Morning,Almost,Social Media,20.77,5,403.83,New
+2025-01-27,Morning,Question,Influencer,65.18,8,148.01,Returning
+2024-12-23,Morning,Six,Influencer,26.16,1,354.14,New
+2025-02-27,Afternoon,Pm,Email,132.36,1,138.21,Returning
+2025-04-11,Morning,Enjoy,In-store,107.94,2,115.7,Loyal
+2025-03-10,Afternoon,Forget,Social Media,95.13,2,451.51,Returning
+2025-04-29,Morning,Glass,In-store,116.75,7,105.83,New
+2025-01-08,Night,Hard,In-store,146.6,3,350.01,Returning
+2024-12-26,Afternoon,Challenge,Email,69.48,6,410.09,Returning
+2025-02-19,Afternoon,Doctor,In-store,121.61,6,398.26,New
+2025-03-22,Morning,Single,Influencer,83.03,7,301.1,Returning
+2024-12-27,Morning,House,In-store,81.15,9,96.64,Loyal
+2025-03-05,Morning,Early,Email,108.88,2,108.02,Loyal
+2025-02-22,Afternoon,Ability,Email,60.47,1,421.44,Returning
+2025-02-28,Afternoon,Operation,Influencer,115.94,8,195.43,Returning
+2025-03-05,Evening,Watch,Influencer,10.83,8,82.47,Returning
+2025-04-11,Evening,Woman,Email,70.83,9,80.97,Loyal
+2025-03-21,Morning,Black,Email,32.06,5,216.2,New
+2024-12-11,Afternoon,Somebody,Social Media,34.63,1,383.46,New
+2025-03-22,Morning,Other,Social Media,80.48,7,497.46,New
+2024-11-27,Afternoon,Someone,In-store,91.14,10,175.93,Returning
+2025-03-31,Night,Western,Social Media,59.29,5,426.03,New
+2025-04-04,Afternoon,Body,In-store,39.22,6,384.76,Returning
+2025-04-30,Night,Your,Influencer,72.96,3,348.4,New
+2024-11-08,Evening,Fear,Email,118.88,2,313.89,Loyal
+2024-12-07,Morning,Hundred,In-store,80.93,4,108.52,Loyal
+2025-03-26,Afternoon,Nothing,In-store,116.18,4,220.66,Loyal
+2024-12-08,Night,Care,Influencer,121.2,1,33.36,New
+2024-12-31,Afternoon,Executive,Social Media,60.41,2,493.03,Loyal
+2024-11-17,Morning,Smile,Social Media,30.39,3,127.13,Loyal
+2025-04-29,Afternoon,New,Social Media,115.35,8,97.13,New
+2025-03-02,Afternoon,Protect,Influencer,61.62,5,101.22,Loyal
+2024-12-12,Evening,Away,In-store,56.48,9,189.48,New
+2025-01-29,Evening,Fall,Email,110.64,5,378.79,Loyal
+2024-11-28,Evening,Campaign,Email,63.52,2,248.48,New
+2024-12-26,Evening,Enough,Influencer,48.98,8,138.19,Returning
+2025-01-25,Night,Then,In-store,9.58,2,375.41,Returning
+2025-03-08,Afternoon,Control,Influencer,65.77,5,290.95,Returning
+2025-03-16,Evening,Them,Email,34.85,8,265.5,Returning
+2025-03-08,Night,They,Influencer,108.98,10,246.78,Returning
+2025-01-10,Afternoon,Smile,Email,98.94,7,29.69,Returning
+2025-01-06,Night,Organization,Social Media,5.32,2,298.2,Returning
+2025-03-09,Evening,Keep,In-store,102.31,6,352.72,New
+2024-11-02,Night,Member,Influencer,13.5,7,279.74,Returning
+2024-11-15,Night,Dog,Influencer,87.62,9,136.26,Returning
+2025-04-12,Night,Address,In-store,121.74,5,169.64,New
+2024-12-30,Afternoon,Condition,Email,98.43,8,441.2,New
+2024-12-13,Night,Majority,Email,102.11,10,151.35,Loyal
+2025-01-29,Morning,Prove,Influencer,127.71,8,371.36,New
+2025-03-15,Morning,Suffer,Influencer,26.14,10,51.31,Returning
+2024-12-25,Evening,Become,Email,115.21,3,328.74,Loyal
+2025-04-14,Night,System,Social Media,72.95,1,141.27,New
+2024-12-06,Afternoon,Especially,Social Media,78.64,8,131.14,Returning
+2024-12-16,Evening,Star,Influencer,57.46,1,144.59,Returning
+2025-03-10,Night,Over,Social Media,133.49,1,28.17,Returning
+2024-11-09,Evening,Day,Email,98.96,10,269.42,Returning
+2025-04-25,Evening,Method,Influencer,81.61,2,470.78,Loyal
+2025-04-30,Afternoon,Paper,Email,45.21,3,78.13,New
+2024-11-30,Night,Republican,Influencer,11.11,0,228.7,Returning
+2025-02-25,Morning,Into,Social Media,123.79,4,259.29,Returning
+2024-11-04,Evening,Pressure,Influencer,99.5,7,331.84,Returning
+2025-02-09,Evening,Mr,Email,86.94,3,92.72,Returning
+2024-10-31,Morning,Financial,Email,78.28,0,497.11,Returning
+2024-12-16,Night,Economic,Email,79.5,9,94.14,Returning
+2025-02-22,Afternoon,Actually,In-store,121.84,10,227.52,New
+2024-11-12,Night,House,In-store,115.41,8,109.25,Returning
+2024-11-24,Morning,Benefit,In-store,67.28,7,328.59,Returning
+2025-01-12,Morning,Smile,Social Media,119.11,5,360.32,New
+2025-04-29,Afternoon,Physical,Email,100.36,2,318,Loyal
+2024-12-15,Afternoon,Sign,Email,23.2,3,146.85,New
+2024-12-27,Night,Contain,In-store,71.96,9,130.86,Returning
+2025-02-13,Morning,Represent,In-store,10.73,4,358.85,Returning
+2025-01-10,Night,Top,In-store,20.41,7,301,Returning
+2025-04-26,Night,Capital,In-store,96.44,2,240.05,Loyal
+2025-01-12,Night,Example,Email,126.99,8,347.09,New
+2024-12-22,Afternoon,Whole,In-store,68.77,8,353.52,New
+2025-04-08,Evening,Able,Influencer,18.54,3,43.71,Returning
+2025-04-18,Night,Record,Influencer,72.8,1,63.6,New
+2025-04-03,Evening,Million,In-store,117.54,6,290.9,New
+2025-02-15,Night,Avoid,Influencer,77.21,10,498.87,Returning
+2025-03-22,Night,Language,In-store,105.33,8,42.05,Returning
+2024-12-23,Morning,Argue,Influencer,41.58,1,441.47,New
+2025-02-13,Night,Crime,Social Media,58.68,4,399.82,Loyal
+2025-02-06,Night,Back,Email,98.85,9,385.1,Loyal
+2024-11-23,Afternoon,Clear,Email,107.44,2,260,Loyal
+2025-01-19,Afternoon,Project,Influencer,74.65,1,289.33,Loyal
+2024-11-19,Night,Option,Influencer,53.11,1,276.44,Returning
+2025-02-19,Evening,She,In-store,121.42,2,334.89,Loyal
+2025-02-11,Morning,Agency,In-store,63.12,7,382.94,Loyal
+2025-01-13,Morning,Catch,Email,62.94,4,387.56,Returning
+2025-02-27,Morning,Minute,Influencer,106.5,5,311.28,New
+2024-10-31,Morning,Industry,In-store,109.78,3,471.26,Loyal
+2025-01-18,Morning,Appear,Email,27.12,2,53.59,New
+2024-11-19,Evening,Million,Influencer,73.43,5,210.49,Returning
+2025-02-18,Morning,Kind,Social Media,25.79,7,214.94,New
+2024-12-19,Night,Argue,Social Media,124.32,6,321.98,New
+2024-12-19,Morning,Mr,Social Media,66.98,0,374.15,New
+2025-04-21,Evening,Four,Social Media,138.75,0,222.57,New
+2024-12-03,Morning,Finish,In-store,149.68,8,406.04,Loyal
+2025-02-05,Morning,Much,Email,146.11,7,57.68,New
+2024-12-02,Morning,Conference,Influencer,58.63,1,352.06,Loyal
+2024-12-02,Afternoon,Tonight,Email,59.92,7,217.34,New
+2025-01-05,Night,Relationship,Email,39.87,0,194.43,Returning
+2025-03-16,Afternoon,Begin,Social Media,7.03,1,386.33,Returning
+2025-01-01,Evening,Not,Influencer,55.43,7,213.05,Loyal
+2025-02-16,Night,Note,Influencer,139.54,3,426.86,Returning
+2024-11-20,Evening,Tv,In-store,119.79,5,162.06,New
+2025-01-14,Morning,Building,Influencer,120.15,6,350.74,Loyal
+2025-01-06,Morning,Dream,Influencer,35.16,1,172.37,Loyal
+2025-01-01,Night,Hit,In-store,122.18,4,261.5,Returning
+2025-04-10,Night,Easy,In-store,113.59,8,78.23,Returning
+2025-03-02,Afternoon,Leave,Influencer,121.14,9,207.97,New
+2025-01-28,Morning,Management,Social Media,115.09,3,36.78,New
+2025-04-18,Afternoon,Might,Email,81.33,1,418.67,New
+2024-12-24,Evening,However,Email,105.24,1,425.76,New
+2025-02-17,Morning,Check,Social Media,53.88,4,335.92,New
+2024-11-23,Night,Improve,In-store,132.45,4,412.26,Loyal
+2025-01-13,Night,Anyone,Social Media,46.85,5,492.23,Loyal
+2024-12-03,Morning,Off,Social Media,108.34,0,68.68,New
+2025-01-21,Night,Turn,Email,13.25,0,351.95,Returning
+2025-01-05,Night,Cover,Social Media,28.44,7,147.61,New
+2024-12-05,Night,Hot,In-store,92.28,0,391.65,Loyal
+2025-01-03,Night,Little,In-store,91.11,4,97.47,Loyal
+2025-04-26,Night,Wear,Influencer,49.85,9,100.36,Returning
+2025-02-08,Morning,Policy,Influencer,81.73,9,422.27,New
+2025-01-10,Afternoon,Show,In-store,72.72,0,416.15,Loyal
+2025-03-25,Night,Mrs,Influencer,138.7,5,207.42,Loyal
+2024-11-20,Afternoon,Return,Influencer,47.02,4,464.16,Loyal
+2025-02-17,Night,Beyond,Email,72.43,8,279.85,New
+2024-12-24,Afternoon,Point,Email,113.16,10,486.4,Returning
+2024-12-07,Morning,So,Influencer,110.28,6,497.18,New
+2025-01-26,Night,Around,Social Media,39.8,6,416.74,Returning
+2025-03-10,Night,Many,Social Media,92.38,1,85.51,New
+2025-02-22,Morning,Go,Social Media,23.23,5,482.39,Returning
+2025-02-15,Evening,Myself,Social Media,141.74,3,348.75,Loyal
+2024-12-13,Afternoon,Morning,In-store,26.69,10,216.21,Loyal
+2025-01-01,Night,Hit,Social Media,98.96,10,278.64,Returning
+2025-04-25,Night,City,Email,133.54,4,57.41,New
+2025-01-02,Afternoon,Sit,Email,125.7,6,380.56,New
+2025-04-14,Afternoon,Message,Social Media,102.7,10,35.51,Loyal
+2025-04-13,Morning,Important,Social Media,72.34,8,264,New
+2025-01-29,Afternoon,American,In-store,56.44,3,226.89,New
+2024-12-31,Evening,Tonight,Influencer,44.65,0,33.19,Returning
+2025-03-31,Afternoon,Tough,In-store,91.24,1,428.76,New
+2025-04-28,Afternoon,Entire,In-store,45.35,5,70.11,New
+2025-03-03,Night,State,Email,62.09,5,340.14,New
+2024-12-19,Evening,Enjoy,Social Media,55.28,7,47.74,Loyal
+2025-03-02,Evening,Prove,Influencer,77.25,2,32.61,Loyal
+2025-03-12,Evening,Main,In-store,108.25,4,176.73,New
+2024-12-21,Afternoon,Both,In-store,53.81,1,369.77,Loyal
+2025-04-09,Night,Possible,Social Media,99.67,4,423.67,New
+2024-11-11,Morning,Surface,Social Media,27.49,2,38.84,New
+2025-02-01,Morning,Believe,Email,17.58,7,199.7,Returning
+2025-01-21,Night,Question,In-store,71.73,6,377.21,New
+2025-03-09,Afternoon,Claim,In-store,71.2,2,265.62,New
+2025-04-04,Afternoon,Find,Social Media,47.35,8,270.78,Returning
+2025-02-14,Afternoon,Commercial,Social Media,145.13,4,466.01,Loyal
+2024-11-28,Evening,Myself,Social Media,117.26,9,44.87,Loyal
+2025-02-10,Evening,Out,Email,116.99,0,34.65,Returning
+2024-11-13,Evening,Poor,Social Media,61.1,0,170.33,Returning
+2024-11-19,Evening,Area,Influencer,46.82,3,190.06,Returning
+2025-01-14,Evening,Than,Influencer,25.62,2,393.78,Loyal
+2025-03-13,Afternoon,Night,Social Media,77.32,9,339.49,Returning
+2025-04-03,Evening,Black,Email,84.54,4,34.04,New
+2024-12-04,Night,Officer,Influencer,115.14,8,394.7,New
+2025-02-26,Evening,Organization,Email,105.52,9,117.06,Loyal
+2025-01-31,Morning,Close,In-store,141.62,2,241.97,Loyal
+2025-03-22,Evening,Account,Social Media,139.96,8,451.67,Loyal
+2024-11-14,Night,Challenge,Social Media,93.23,5,190.28,Returning
+2025-03-06,Morning,Paper,Social Media,82.38,3,420.38,Loyal
+2024-12-30,Night,Truth,Influencer,25.41,8,473.23,Loyal
+2024-11-27,Night,Kid,Email,86.29,8,401.2,Loyal
+2024-11-16,Night,But,Influencer,65.96,3,303,Loyal
+2025-04-16,Morning,Issue,Email,47.75,2,311.46,Loyal
+2025-03-25,Afternoon,Agent,Email,104.63,10,156.27,New
+2025-01-18,Evening,Very,Email,22.49,6,498.5,Returning
+2024-11-17,Afternoon,Party,Social Media,35.17,2,78.51,New
+2024-12-08,Morning,Lawyer,Social Media,85.44,3,336.96,Returning
+2024-11-21,Evening,Hospital,In-store,18.06,8,395.52,Loyal
+2024-11-21,Morning,Tree,Influencer,104.87,2,443.22,New
+2025-04-22,Evening,Stuff,Social Media,24.14,1,395.99,Loyal
+2025-04-28,Afternoon,Off,In-store,114.98,6,365.07,Loyal
+2024-12-15,Morning,Senior,Email,119.37,8,273.73,Loyal
+2025-04-13,Night,Up,Email,28.4,8,202.11,Loyal
+2024-11-29,Night,Own,In-store,126.03,4,148.55,Returning
+2025-01-25,Night,Respond,Email,111.25,6,484.16,Returning
+2025-04-01,Morning,Agree,Influencer,36.75,2,441.86,New
+2024-11-19,Morning,Simply,Social Media,9.44,5,449,New
+2025-01-16,Night,Show,Social Media,26.67,7,489.37,Returning
+2025-04-16,Evening,Beyond,Email,76.06,7,469.81,Loyal
+2024-12-22,Afternoon,Nearly,Influencer,20.15,8,347.89,Returning
+2025-04-15,Afternoon,Hundred,Email,126.02,4,267.48,Loyal
+2025-03-30,Night,Dog,Influencer,101.6,8,442.21,Returning
+2024-11-15,Evening,Ground,In-store,17.65,0,364.2,New
+2025-03-26,Night,Minute,Social Media,113.02,7,174.77,New
+2025-02-17,Evening,Staff,Email,137.68,7,406.85,Returning
+2025-03-15,Evening,Training,Email,58.29,1,402.63,New
+2024-11-02,Evening,Democratic,Influencer,98.19,0,154.81,Loyal
+2024-12-03,Afternoon,Middle,In-store,82.87,7,307.66,Returning
+2025-04-19,Night,Back,In-store,125.13,1,47.74,Loyal
+2024-12-23,Night,Situation,In-store,25.66,5,330.43,Loyal
+2025-02-17,Evening,Run,Email,9.28,4,257.4,Loyal
+2024-12-24,Afternoon,Show,Social Media,133.23,10,184.18,Loyal
+2025-02-26,Afternoon,That,Influencer,70.29,0,456.4,Loyal
+2024-12-12,Morning,Anyone,Email,51.17,0,424.54,New
+2024-11-08,Afternoon,Blood,Email,8,3,216.22,New
+2025-02-19,Night,Model,Social Media,123.77,4,298.35,New
+2024-11-25,Afternoon,Perform,In-store,88,10,378.22,Returning
+2025-04-06,Afternoon,Wide,Influencer,98.39,6,23.4,New
+2024-10-31,Morning,Measure,Social Media,53.62,4,224.81,Returning
+2025-04-21,Afternoon,Chance,Social Media,16.35,8,336.03,Returning
+2025-03-04,Night,Whether,In-store,137.03,2,92.53,Loyal
+2025-01-02,Morning,Law,Email,57.42,6,157.2,Loyal
+2025-04-24,Afternoon,City,Influencer,7.93,7,266.41,New
+2024-11-12,Morning,Knowledge,Influencer,135.89,0,262.19,New
+2025-03-23,Night,Interesting,Email,96.62,7,450.82,Returning
+2025-02-23,Morning,Team,Influencer,54.29,7,439.12,New
+2025-03-20,Evening,Worry,Social Media,26.23,3,215.66,Loyal
+2024-12-20,Morning,Eat,In-store,33.36,10,154.75,Loyal
+2025-04-30,Evening,Themselves,Influencer,98.65,1,63.62,Returning
+2025-02-20,Night,Which,Social Media,74.66,1,20.14,Returning
+2024-12-12,Evening,Purpose,Influencer,10.12,0,450.68,New
+2024-12-26,Night,Owner,In-store,59.48,10,485.17,Returning
+2025-01-19,Evening,Out,Email,54.42,5,267.39,Returning
+2025-01-31,Afternoon,Maintain,In-store,119.71,0,366.94,New
+2025-01-16,Afternoon,Item,Influencer,65.61,8,330.82,New
+2024-11-03,Morning,Do,Social Media,8.18,3,200.78,Returning
+2025-02-12,Afternoon,Allow,Influencer,40.76,0,410.22,Returning
+2025-01-24,Evening,Inside,Email,113,7,178.94,Loyal
+2025-02-02,Evening,Wife,In-store,62.89,5,33.06,Loyal
+2024-12-03,Afternoon,Mouth,Social Media,39.81,1,220.6,Returning
+2024-12-01,Night,Community,Influencer,85.47,1,368.49,Returning
+2024-12-12,Evening,Onto,Email,111.86,9,81.67,New
+2024-11-09,Night,Employee,Influencer,119.67,9,497.13,New
+2025-03-08,Evening,Usually,In-store,52.12,10,74.34,Loyal
+2025-02-21,Evening,Situation,In-store,99.56,3,125.47,Returning
+2025-01-19,Afternoon,Everyone,Social Media,81.12,3,161.11,Loyal
+2025-01-08,Night,Success,Influencer,18.01,3,254.62,Returning
+2024-10-31,Morning,Land,Influencer,35.58,4,496.46,Returning
+2025-03-10,Evening,Heart,Social Media,82.81,9,212.24,Returning
+2024-12-22,Afternoon,Lay,Email,100.69,1,149.94,Loyal
+2025-04-11,Morning,Assume,Social Media,21.07,3,94.93,New
+2025-04-27,Evening,Energy,Influencer,115.17,0,320.99,New
+2025-03-23,Night,A,In-store,41.66,9,128.62,Loyal
+2025-02-07,Night,Single,Email,44.1,8,408.01,Returning
+2025-01-18,Night,Left,In-store,20.56,0,432.2,Loyal
+2025-03-06,Night,Specific,Social Media,56.21,7,382.95,New
+2025-01-26,Morning,Response,Email,147.58,0,199.13,New
+2024-11-01,Morning,Shake,Email,82.76,2,397.05,Returning
+2025-02-11,Afternoon,Than,Email,91.71,8,279.4,New
+2024-12-07,Evening,Story,Social Media,78.71,9,342.27,Returning
+2025-02-25,Afternoon,Property,Social Media,62.11,9,229.97,Returning
+2025-01-06,Evening,Would,Social Media,26.81,7,255.74,Returning
+2025-02-20,Night,Even,Email,144.02,1,405.01,Loyal
+2025-03-19,Evening,Expert,In-store,97.54,3,65.69,Loyal
+2025-03-21,Afternoon,Thing,Social Media,67.07,10,138.89,Loyal
+2025-04-22,Morning,Everything,In-store,34.62,0,72.14,New
+2024-11-16,Morning,Season,In-store,97.2,8,136.84,New
+2025-01-05,Morning,When,Influencer,14.61,3,283.09,Returning
+2025-03-15,Evening,Figure,In-store,106.94,1,224.25,New
+2025-03-29,Night,Police,Social Media,106.12,6,124.78,Loyal
+2024-11-28,Night,It,Social Media,30.2,6,147.12,Returning
+2025-03-02,Night,Serve,Social Media,104.93,9,220.45,New
+2025-03-27,Afternoon,Gun,Social Media,35.68,6,132.7,Returning
+2025-02-25,Morning,Notice,Influencer,121.38,1,457.35,Returning
+2025-01-27,Afternoon,Exist,Influencer,19.86,9,307,Loyal
+2025-02-15,Afternoon,Action,Social Media,16.54,0,237.17,Returning
+2025-02-13,Afternoon,Around,In-store,112.73,2,173.93,Loyal
+2025-02-14,Evening,Within,Email,47.5,6,471.27,Loyal
+2024-12-17,Morning,Adult,Social Media,35.04,5,455.35,Loyal
+2025-01-16,Morning,Theory,In-store,31.98,6,242.56,Loyal
+2025-03-01,Afternoon,Culture,Influencer,38.14,3,248.9,Loyal
+2024-12-05,Night,This,Social Media,127.32,0,72.26,Loyal
+2025-04-18,Evening,Option,Email,101.13,10,325.64,Loyal
+2024-11-07,Evening,Night,In-store,19.4,9,426.09,Loyal
+2024-11-25,Morning,Certain,In-store,34.13,2,401.27,Loyal
+2025-01-20,Morning,Friend,In-store,56.07,8,367.39,Returning
+2024-12-19,Night,Someone,Email,57.46,4,431.22,Loyal
+2025-04-09,Night,Direction,Social Media,28.91,7,24.89,Returning
+2025-04-03,Night,Major,Social Media,26.52,5,229.69,New
+2025-01-06,Night,Movie,Email,85.22,1,300.24,Loyal
+2025-03-28,Afternoon,Describe,In-store,121.88,7,123.31,Returning
+2025-03-03,Evening,Fight,Social Media,117.26,3,235.58,New
+2025-03-28,Morning,If,In-store,54.12,0,261.3,Returning
+2025-02-18,Afternoon,Natural,In-store,74.03,1,78.95,New
+2025-01-21,Night,Indeed,In-store,37.83,10,404.82,New
+2025-04-23,Afternoon,Administration,Email,84.27,3,363.35,Loyal
+2024-11-17,Afternoon,First,In-store,132.03,9,111.33,Loyal
+2025-02-03,Afternoon,Seem,In-store,146.83,1,155.97,New
+2024-11-18,Morning,Star,Influencer,93.85,2,239.94,Returning
+2025-01-24,Afternoon,Save,Influencer,140.17,9,30.22,Loyal
+2024-11-01,Afternoon,He,Email,93.47,8,155.06,Loyal
+2025-01-10,Evening,More,Influencer,24.62,10,345.91,Loyal
+2025-02-10,Afternoon,Long,In-store,145.39,9,465.53,Loyal
+2025-01-20,Morning,Nice,Social Media,50.44,4,318.42,Loyal
+2025-01-18,Evening,Structure,Influencer,49.11,1,188.66,Loyal
+2025-04-19,Night,Brother,Social Media,139.44,8,231.07,New
+2025-02-05,Evening,Outside,In-store,11.13,6,244.38,Returning
+2024-11-08,Morning,Indicate,Influencer,108.85,8,285.27,Loyal
+2025-02-11,Evening,Class,In-store,48.4,6,424.91,Returning
+2025-04-27,Morning,Say,Influencer,39.34,6,361.62,New
+2024-11-05,Afternoon,Power,Email,143.38,10,427.49,Returning
+2025-04-17,Afternoon,Size,In-store,113.55,4,94.6,Loyal
+2025-03-01,Afternoon,Dream,Email,40.06,4,90.08,Returning
+2024-11-27,Evening,Paper,In-store,78.6,1,136.91,New
+2025-04-17,Morning,Wind,In-store,32.39,9,204.59,New
+2025-04-25,Morning,Trial,Email,87.86,9,395.93,Returning
+2024-11-19,Evening,Improve,Influencer,35.54,2,175.1,Returning
+2025-03-15,Afternoon,Discussion,In-store,115.14,4,493.1,New
+2025-01-22,Evening,Next,Email,117.25,0,217.29,Returning
+2025-02-08,Night,Although,Email,51.44,10,433.85,Loyal
+2025-04-20,Morning,Knowledge,Social Media,38.35,7,47.67,New
+2025-03-13,Morning,Produce,Social Media,93.33,3,92.25,New
+2025-03-26,Morning,Seem,Influencer,75.26,1,246.36,New
+2025-04-08,Evening,Onto,In-store,24.93,4,283.76,Returning
+2025-04-20,Afternoon,History,Influencer,33.96,10,468.13,New
+2025-03-06,Afternoon,Her,Influencer,77.04,4,263,Returning
+2024-11-22,Morning,Method,Email,47.11,4,170.26,Returning
+2025-03-14,Morning,Course,In-store,123.03,8,331.49,Returning
+2025-03-19,Morning,Want,Influencer,14.02,3,271.25,Returning
+2024-12-12,Evening,Almost,Social Media,50.34,10,304.96,Returning
+2024-11-02,Morning,Home,Influencer,109.18,8,29.63,Returning
+2024-12-23,Morning,Join,Social Media,28.62,7,231.19,Returning
+2024-11-07,Evening,Test,Social Media,31.42,6,61.12,New
+2025-04-17,Afternoon,Thought,In-store,135.39,5,91.98,Returning
+2024-11-07,Afternoon,Poor,Social Media,68.4,6,182.09,New
+2024-12-16,Morning,Some,In-store,64.75,6,157.2,Returning
+2025-04-18,Morning,Task,Social Media,90.79,6,110.44,Returning
+2025-01-18,Night,Form,In-store,81.78,0,333.44,Loyal
+2024-11-19,Night,Out,Email,138.85,1,239.94,New
+2025-01-21,Night,Break,Influencer,27.82,9,402.89,Loyal
+2024-12-17,Evening,End,Social Media,59.56,9,110.13,New
+2025-03-08,Evening,Ground,Social Media,123.81,1,321.54,New
+2024-10-31,Evening,Line,Influencer,20.02,3,53.02,Loyal
+2024-11-16,Morning,Theory,In-store,149.85,8,350.49,New
+2025-04-16,Night,School,In-store,32.72,9,382.24,Returning
+2024-11-15,Afternoon,Media,Email,47.71,8,373.06,New
+2025-02-08,Evening,Leader,In-store,27.76,8,431.21,Returning
+2024-11-17,Morning,Camera,Influencer,53.82,10,440.33,Loyal
+2024-12-28,Afternoon,Night,In-store,17.57,3,198.02,New
+2025-02-09,Morning,Son,Social Media,19.22,7,437.85,Returning
+2025-04-20,Evening,Against,Email,95.43,6,350.94,Returning
+2025-04-02,Morning,Detail,In-store,84.74,0,118.81,New
+2025-01-14,Evening,Newspaper,Social Media,113.6,2,201.02,New
+2024-12-22,Evening,Actually,Influencer,22.73,3,412.26,New
+2024-11-24,Morning,Last,Social Media,17.09,6,308.2,Loyal
+2024-11-16,Evening,Look,Social Media,138.13,3,162.7,Returning
+2025-01-14,Morning,Camera,Social Media,113.06,10,485.82,Returning
+2025-02-19,Afternoon,Fine,In-store,87.76,5,80.92,New
+2025-01-09,Morning,General,Email,33.09,10,72.05,Loyal
+2025-02-26,Afternoon,Human,Influencer,22.26,0,163.67,New
+2025-01-20,Afternoon,Good,Influencer,132.11,5,172.12,Returning
+2025-02-02,Night,Dream,In-store,137.39,6,137.01,New
+2025-04-13,Evening,Official,Email,76.8,9,341.16,New
+2025-01-28,Afternoon,Energy,Social Media,52.91,4,426.46,Returning
+2025-01-15,Morning,Early,Social Media,126.35,9,242.02,Returning
+2025-04-01,Morning,Concern,Email,48.3,4,390.06,Loyal
+2024-12-18,Afternoon,Sound,Influencer,15.22,1,353.72,Loyal
+2025-03-03,Morning,Understand,Influencer,144.2,0,76.6,New
+2025-03-10,Morning,View,Social Media,20.45,6,228.11,Returning
+2025-01-06,Afternoon,Sound,Email,41.56,8,140.11,Loyal
+2025-01-22,Night,Along,Influencer,92.42,6,52.9,Loyal
+2025-04-02,Morning,Environmental,Influencer,125.05,10,373.08,Loyal
+2025-04-05,Night,Act,Social Media,57.94,2,111.35,Returning
+2025-02-12,Night,Scene,Social Media,37.76,1,477.74,Loyal
+2025-03-27,Evening,Offer,Email,35.53,3,76.01,Loyal
+2024-11-05,Evening,Also,Email,98.89,4,331.64,New
+2024-11-20,Evening,Offer,Influencer,101.85,5,69.38,Returning
+2024-12-10,Evening,Section,In-store,5.05,8,204.39,Loyal
+2025-04-27,Afternoon,Owner,Email,144.75,10,466.89,Returning
+2025-04-10,Afternoon,Threat,Social Media,44.61,9,288.78,Returning
+2024-12-09,Evening,Public,Email,143.71,1,495.27,New
+2025-03-19,Morning,Vote,Influencer,23.6,2,446.6,Loyal
+2024-12-27,Afternoon,Pull,Social Media,93.74,3,49.28,Loyal
+2025-02-04,Evening,Stuff,Email,75.56,7,276.17,New
+2024-11-29,Morning,Girl,Influencer,122.46,2,37.57,New
+2025-02-04,Morning,Sometimes,In-store,127.77,1,417.22,Loyal
+2025-01-08,Night,Feeling,In-store,148.24,2,357.32,Loyal
+2025-01-06,Evening,Follow,Influencer,140.62,3,328.27,New
+2025-02-28,Afternoon,Single,Influencer,77.3,7,333.11,Returning
+2024-12-31,Evening,Risk,Social Media,130.54,2,406.72,New
+2024-12-04,Morning,Have,Email,100.56,6,373.84,Returning
+2025-01-28,Morning,Cultural,Email,59.4,2,95.32,New
+2025-01-18,Afternoon,Very,Email,61.19,1,478.7,New
+2024-12-13,Evening,Within,In-store,59.67,10,440.91,New
+2025-01-14,Evening,Whole,In-store,76.64,3,141.63,Loyal
+2024-12-16,Evening,Form,Email,75.71,7,148.28,Returning
+2025-04-25,Afternoon,Everything,Social Media,148.89,0,489.04,Loyal
+2024-12-25,Afternoon,Camera,Email,17.42,9,410.16,Returning
+2025-01-10,Morning,Old,Email,16.42,3,413.11,New
+2024-11-26,Night,Customer,Influencer,114.12,7,70.63,Loyal
+2025-03-10,Night,Partner,Social Media,109.44,3,459.36,Returning
+2025-04-02,Night,You,Social Media,111.21,8,132.44,Returning
+2024-11-01,Morning,School,Social Media,64.79,4,438.66,New
+2024-11-10,Evening,Executive,In-store,53.73,0,482.42,Returning
+2025-04-18,Evening,Environment,Social Media,78.35,3,404.4,Returning
+2024-11-18,Night,Adult,Email,121.66,1,202.64,New
+2025-03-10,Night,Whose,Influencer,63.9,3,261.43,Returning
+2025-01-22,Evening,Popular,Social Media,144.93,6,359.68,Loyal
+2025-03-20,Evening,Effect,Social Media,36.29,1,151.44,New
+2024-11-13,Night,Sister,In-store,66.69,1,112.44,Loyal
+2025-01-11,Morning,Cup,In-store,86.2,9,360.56,Loyal
+2025-03-13,Morning,Side,Email,136.07,8,332.3,Returning
+2024-10-30,Evening,Woman,In-store,29.42,10,186.16,Returning
+2025-04-17,Night,Court,In-store,71.12,1,230.27,Loyal
+2025-04-28,Evening,You,In-store,76.64,5,390.64,New
+2024-12-15,Evening,Painting,In-store,52.72,9,119.99,Loyal
+2025-02-10,Evening,Theory,In-store,84.38,8,318.81,New
+2025-04-25,Night,Need,Influencer,128.55,4,203.53,Returning
+2025-02-05,Evening,Appear,In-store,143.07,1,431.44,New
+2024-11-27,Night,Design,Social Media,138.56,8,100.76,New
+2024-12-17,Morning,Tonight,Social Media,50.22,1,314.94,New
+2025-03-29,Night,Owner,Email,103.85,9,39.59,New
+2025-01-28,Evening,Sport,Influencer,132.53,10,62.34,Returning
+2024-12-27,Afternoon,Fine,Email,80.26,1,168.89,New
+2025-01-23,Evening,Concern,Social Media,10.15,7,284.64,Returning
+2025-01-07,Evening,Condition,In-store,108.76,9,343.06,Loyal
+2024-11-16,Morning,Nature,Social Media,97.77,1,491.37,Loyal
+2025-02-13,Evening,City,Social Media,58.86,6,457.08,New
+2024-11-17,Evening,Think,Social Media,133.83,9,198.27,Returning
+2025-03-20,Morning,Song,In-store,108.48,0,475.35,Returning
+2024-12-06,Evening,Different,Social Media,142.29,9,498.48,Returning
+2024-12-19,Night,Stand,Social Media,79.4,8,150.84,New
+2025-03-06,Afternoon,What,Social Media,129.03,7,390.36,Returning
+2025-04-26,Afternoon,Become,Influencer,70.77,8,218.91,Returning
+2025-02-01,Evening,Training,Email,90.87,8,378.36,New
+2025-01-06,Morning,Democratic,In-store,78.14,1,196.53,Returning
+2025-04-25,Afternoon,Bag,In-store,23.59,10,119.86,Loyal
+2024-11-03,Evening,President,In-store,67.71,10,470.41,New
+2025-02-08,Evening,Church,Influencer,33.2,9,159.03,Returning
+2025-04-28,Night,Eye,In-store,71.54,1,271.06,Loyal
+2025-03-21,Afternoon,While,In-store,81.39,8,133.27,Loyal
+2025-01-19,Evening,Address,Social Media,90.36,2,358.58,Returning
+2025-03-14,Morning,Answer,Social Media,62.14,6,34.87,New
+2025-03-07,Evening,Challenge,Social Media,79.16,4,125.76,Returning
+2024-12-03,Night,Wonder,In-store,83.72,5,346.97,Loyal
+2024-12-15,Evening,Close,Social Media,67.31,7,490.74,Returning
+2025-02-04,Morning,Various,Influencer,71.02,1,272.7,Loyal
+2025-01-09,Evening,Value,In-store,68.57,9,401.1,Returning
+2024-11-27,Afternoon,Beat,In-store,120.22,8,70.85,Returning
+2024-12-05,Evening,A,Social Media,118.31,7,275.41,New
+2025-04-24,Evening,Economy,In-store,25.02,10,33.36,Loyal
+2025-01-28,Evening,List,Influencer,74.11,3,473.36,New
+2025-01-18,Night,Possible,Social Media,85.48,9,361.4,Loyal
+2025-02-15,Night,Crime,Email,145.47,4,322.7,Loyal
+2024-11-03,Morning,Lay,In-store,45.06,10,199.11,New
+2025-03-28,Evening,We,Social Media,137.15,2,490.73,Loyal
+2024-12-05,Morning,Statement,Influencer,103.91,2,100.06,Returning
+2025-04-14,Afternoon,Building,In-store,59.91,6,245.95,New
+2024-12-22,Afternoon,Old,Social Media,10.66,7,265.01,Loyal
+2024-12-24,Morning,Thus,Influencer,148.33,2,77.52,Loyal
+2024-12-20,Afternoon,Hundred,Email,81.24,3,215.97,Loyal
+2025-01-25,Afternoon,Mission,Email,30.27,5,151.78,Loyal
+2025-01-15,Morning,Offer,Influencer,119.61,5,346.97,Loyal
+2024-12-13,Night,Language,Influencer,140.29,2,55.59,Returning
+2024-12-08,Evening,Soon,Email,47.17,3,48.32,Loyal
+2025-04-27,Night,Score,Social Media,125.32,5,172.38,New
+2025-02-18,Evening,Risk,In-store,100.04,2,448.39,Returning
+2025-03-06,Night,Seem,Influencer,143,1,264.59,New
+2025-01-05,Evening,Full,Social Media,123.15,5,311.49,Loyal
+2025-01-31,Night,Office,Influencer,135.29,10,393.34,Loyal
+2025-03-01,Morning,Sure,Email,56.3,9,440.19,New
+2024-11-01,Night,Watch,Email,112.79,9,226.01,Returning
+2025-02-16,Afternoon,Probably,Social Media,17.36,8,162.55,Returning
+2025-03-04,Night,Line,Social Media,55.35,8,99.65,Returning
+2025-01-19,Morning,Look,Email,79.76,5,342.57,New
+2025-03-15,Morning,Piece,In-store,14.11,4,228.71,Loyal
+2025-01-11,Afternoon,Professor,Influencer,21.54,1,483.45,Returning
+2025-03-28,Morning,Game,Influencer,120.96,4,126.56,Returning
+2025-04-06,Evening,Look,In-store,144.95,4,163.72,New
+2024-11-03,Evening,Item,Influencer,39.4,10,25.74,New
+2025-04-06,Evening,Figure,In-store,95.82,6,81.84,Loyal
+2024-11-09,Afternoon,Only,In-store,101.28,9,40.39,Returning
+2025-03-22,Afternoon,Financial,Social Media,82.84,0,382.54,New
+2025-03-09,Morning,Teacher,Email,27.76,4,423.36,Loyal
+2025-02-15,Evening,Rate,In-store,116.81,2,132.64,Returning
+2025-01-22,Morning,Of,Email,142.59,3,452.07,New
+2025-02-05,Night,Where,Influencer,22.23,8,415.53,Returning
+2025-03-10,Night,Blue,In-store,110.64,9,327.95,New
+2024-12-18,Afternoon,Realize,Social Media,5.89,9,279.94,Returning
+2025-04-04,Evening,Worry,Email,141.69,6,453.7,Loyal
+2025-01-19,Night,We,Influencer,138.75,2,147.63,New
+2025-02-05,Night,East,Influencer,56.46,8,479.52,Returning
+2025-02-26,Night,Wear,Social Media,127.96,8,353.98,New
+2024-11-24,Night,Black,Email,57.31,7,93.77,New
+2024-12-09,Morning,Pay,Influencer,69.02,7,296.29,Returning
+2024-12-26,Night,Summer,Influencer,127.81,6,45.15,Loyal
+2025-04-16,Evening,Trouble,Social Media,99.8,8,197.21,Returning
+2025-04-25,Morning,Conference,Social Media,109.62,6,141.13,New
+2025-02-25,Morning,Station,Social Media,56.14,9,83.92,Returning
+2024-11-30,Afternoon,How,Influencer,79.35,4,366.83,Loyal
+2025-02-25,Afternoon,Make,In-store,88.69,5,275.63,Loyal
+2025-01-29,Afternoon,Open,Email,126.92,2,343.85,Returning
+2025-03-23,Afternoon,Seat,Email,24.53,9,300.59,Loyal
+2024-11-11,Evening,Walk,Email,82.11,0,430.57,Loyal
+2024-12-27,Night,Agree,In-store,68.21,4,449,Loyal
+2025-03-06,Morning,Mission,Email,66.39,8,199.21,Loyal
+2025-03-09,Morning,Help,Email,73.01,2,97.99,Loyal
+2024-10-31,Morning,Stuff,In-store,137.24,3,349.92,New
+2025-04-19,Afternoon,Thank,Social Media,78.1,6,460.67,Returning
+2024-11-26,Morning,Stop,Email,65.77,5,363.24,Returning
+2024-12-23,Morning,Those,Influencer,32.48,7,45.21,New
+2025-04-12,Morning,Family,Email,58.26,8,399.74,Loyal
+2024-12-19,Night,Address,In-store,71.98,10,456.67,Returning
+2025-04-15,Evening,Book,Email,46.86,8,81.23,New
+2025-02-08,Afternoon,Instead,Social Media,83.94,7,181.38,Returning
+2025-04-11,Afternoon,Policy,Social Media,55.33,2,316.66,Loyal
+2024-11-12,Night,Large,Email,67.72,4,411.05,Loyal
+2025-02-02,Morning,Level,Email,77.57,6,211.85,Returning
+2025-04-03,Morning,Return,Email,93.85,10,282.04,Returning
+2025-01-24,Afternoon,Economic,Social Media,118.21,2,312.28,New
+2025-02-24,Evening,Avoid,Email,94.46,4,372.6,Returning
+2025-01-22,Night,State,In-store,63.91,2,58.56,Returning
+2025-01-01,Morning,Thing,Social Media,144.04,0,56.1,Loyal
+2025-02-23,Morning,Mrs,Social Media,42.87,8,396.27,Returning
+2024-11-01,Morning,Better,Influencer,29.48,5,429.14,Returning
+2025-04-18,Night,Man,Influencer,127.43,4,50.42,Returning
+2025-04-26,Afternoon,Mrs,Email,56.5,10,377.18,Loyal
+2025-03-31,Morning,Law,In-store,22.5,4,267.14,Returning
+2025-04-25,Morning,Skill,Influencer,16.87,9,335.89,Returning
+2024-11-07,Afternoon,Smile,Social Media,130,4,130.27,Loyal
+2025-03-10,Afternoon,Push,Email,21.25,2,160.14,Loyal
+2025-03-23,Morning,Hot,In-store,77.19,3,301.3,New
+2024-12-01,Night,Attack,Influencer,139.9,5,162.52,Returning
+2024-11-11,Afternoon,Itself,Influencer,74.72,5,20.71,Returning
+2025-03-29,Evening,Democrat,Influencer,31.48,3,88.09,New
+2025-03-07,Afternoon,Book,Influencer,56.89,7,54.53,New
+2025-03-15,Evening,Agree,Influencer,80.93,1,478.18,New
+2024-12-08,Night,Though,In-store,73.74,1,34.32,New
+2025-03-24,Afternoon,Suffer,Social Media,5.14,1,117.91,Returning
+2025-04-16,Morning,Structure,Email,117.28,4,419.3,New
+2025-03-04,Morning,Manager,Email,86.55,9,56.06,Loyal
+2025-01-16,Afternoon,Discover,Influencer,30.68,6,110.62,Returning
+2024-11-17,Evening,Measure,Social Media,114.92,6,217.33,Returning
+2024-12-01,Afternoon,Site,In-store,88.28,1,466.56,New
+2024-12-21,Night,Account,Influencer,22.1,2,137.56,Loyal
+2025-04-30,Evening,Message,Social Media,46.88,10,103.63,Returning
+2025-01-29,Morning,Skin,Influencer,74.74,7,38.6,Loyal
+2025-03-05,Evening,Forget,Social Media,65.23,7,374.6,Loyal
+2025-02-16,Morning,Game,Social Media,110.84,1,210.57,Loyal
+2025-03-22,Afternoon,Speech,In-store,52.88,4,164.36,New
+2025-04-16,Afternoon,I,Email,26.99,3,57.19,Loyal
+2025-02-02,Night,Would,Influencer,53.27,5,74.14,Returning
+2025-01-06,Night,Simply,In-store,56.09,10,84.59,Returning
+2024-12-29,Night,Simple,In-store,69.73,2,116.47,Returning
+2025-03-13,Afternoon,Picture,Influencer,123.75,9,168.8,Loyal
+2024-12-13,Night,Account,Email,8.13,2,353.41,New
+2024-12-03,Afternoon,What,Influencer,117.86,2,439.38,Loyal
+2025-01-16,Morning,Reality,Email,84.07,6,101.46,New
+2025-03-22,Night,Suggest,Social Media,15.25,5,101.59,New
+2025-04-25,Morning,Other,Social Media,108.8,0,97.27,Loyal
+2025-01-16,Morning,Leg,Email,104.66,5,296.31,Loyal
+2025-01-20,Evening,Interest,Email,111.32,2,49.16,New
+2024-11-04,Night,Responsibility,Social Media,117.07,7,330.86,Returning
+2025-04-15,Morning,Degree,Social Media,49.35,6,300.82,Returning
+2025-03-14,Night,Option,Email,34.07,1,28.76,New
+2025-03-20,Night,Both,Email,107.02,5,415.28,Loyal
+2025-01-19,Afternoon,Population,In-store,107.52,8,445.97,Loyal
+2024-12-05,Night,Already,Social Media,30.31,6,346.34,Returning
+2024-12-17,Morning,Simple,Email,95.66,1,75.71,New
+2025-03-05,Evening,Range,Social Media,22.85,0,495.41,Loyal
+2024-11-25,Night,Drug,Influencer,115.87,4,493.86,Returning
+2024-11-16,Night,Wide,Email,18.93,2,273.96,Loyal
+2025-04-16,Morning,Clearly,In-store,141.46,8,382.13,Returning
+2024-11-09,Morning,Company,Email,68.95,9,93.18,New
+2025-02-17,Night,Amount,In-store,14.15,3,466.36,New
+2024-12-07,Afternoon,Dark,Influencer,26.81,7,393.32,Loyal
+2025-01-23,Evening,Deal,Social Media,137.29,3,164.69,Loyal
+2024-11-15,Morning,Training,Influencer,115.43,1,348.96,Loyal
+2024-12-28,Morning,Summer,Email,13.53,5,178.5,New
+2025-03-27,Evening,Deal,Email,28.21,2,396.19,Loyal
+2024-12-15,Morning,Risk,In-store,68.53,5,450.17,Loyal
+2024-12-24,Evening,You,Social Media,119.48,9,487.27,Returning
+2025-03-21,Evening,Memory,Social Media,134.92,8,89.5,New
+2025-03-14,Night,Almost,Email,30.55,5,179.51,Returning
+2025-01-26,Morning,Sport,Influencer,109.06,0,147.33,Loyal
+2024-11-26,Afternoon,Field,Social Media,9.83,2,412.29,Returning
+2025-03-06,Morning,Three,Influencer,112.67,9,116.66,New
+2025-01-24,Night,Seat,Social Media,94.44,6,396.63,New
+2025-01-27,Night,Really,Email,22.58,9,40.75,Returning
+2025-01-18,Morning,Realize,Influencer,104.94,9,310.39,Loyal
+2025-04-16,Evening,Possible,Email,10.55,6,324.49,New
+2025-01-11,Afternoon,Hold,Social Media,47.22,9,425.17,Returning
+2025-04-22,Night,Fast,Email,75.06,0,76.98,New
+2024-12-14,Morning,Certain,Influencer,124.03,9,102.89,Returning
+2025-01-27,Evening,Almost,Email,80.64,9,485.93,Loyal
